@@ -19,6 +19,7 @@ Chennai.
 Dept. of Computer Sceince and Engineering,<br>
 Christ College of Engineering and Technology, Puducherry.<br>
 
+
 <!--### Internships
 
 <img src="/assets/clarifai.png" width="250">                    <img src="/assets/qualcomm.jpg" width="250">                     <img src="/assets/nrl.png" width="80">                     <img src="/assets/bu.gif" width="175"> -->
@@ -28,10 +29,12 @@ Christ College of Engineering and Technology, Puducherry.<br>
 #### * **M.TECH** - *Computer science and Engineering* (Pondicherry University) 
 #### * **B.TECH** - *Computer science and Engineering* (Pondicherry University) 
 
+
 ### TRAINING & CERTIFICATION
 
 * Completed 8 Weeks NPTEL course *“Introduction to Modern Application Development”*with a consolidated score of 70% organized by IIT-Madras in partnership with NASSCOM. <br>
  *Roll No: NPTEL17CS0626640346FN [To validate and check scores: http://nptel.ac.in/noc]*
+
 
 ### SOFTWARE SKILL SET
 
@@ -40,6 +43,7 @@ Christ College of Engineering and Technology, Puducherry.<br>
 * Software Skills			: MATLAB, Apache Hadoop, Docker
 * Web Development		  	: HTML, CSS, MySQL
 
+
 ### AREAS OF INTERESTS
 
 * Video Processing and Analytics
@@ -47,7 +51,8 @@ Christ College of Engineering and Technology, Puducherry.<br>
 * Machine & Deep Learning
 * Biometric Security
 
-###  PUBLICATIONS
+
+### PUBLICATIONS
 
 *ORCID ID: https://orcid.org/0000-0001-9312-2143*
 
@@ -71,8 +76,7 @@ Christ College of Engineering and Technology, Puducherry.<br>
 
 9.	G. Balamurugan, Sakthivel Punniakodi, **V. Arulalan**, C. Jayanavithraa, *"Multipath Forwarding in VANET for Message Dissemination"*, International Journal of Advanced Research in Computer and Communication Engineering Vol. 2, Issue 11, November 2013.
 
-
-####  IN PEER REVIEWED INTERNATIONAL CONFERENCES
+#### IN PEER REVIEWED INTERNATIONAL CONFERENCES
 
 10.	**V. Arulalan**, Dhananjay Kumar, V. Premanand, *“An Item Based Collaborative Filtering For Similar Movie Search”*, International Conference on Computational Vision and Bio Inspired Computing-SPRINGER, 2018.
 
@@ -90,13 +94,12 @@ Christ College of Engineering and Technology, Puducherry.<br>
 
 17.	G. Balamurugan, Dr. K. B. Jayarraman, **V. Arulalan**, *“An Iris Based Watermarking System for the Security Issues of Teleradiology”*, International Journal of Applied Engineering Research, Vol. 9 No. 20, 2014. ***[SCOPUS]***
 
-
 #### IN PEER REVIEWED NATIONAL CONFERENCES
-
 
 18.	**V. Arulalan**, DR. K. Suresh Joseph and G. Balamurugan, *“Safety Driver: Reducing Driver Distraction Using Integrated Smart Sensors”*, Advances in Natural and Applied Sciences, Volume 11, Number 12, October, 2017, Pages: 63-69, ICMR sponsored National Conference on “ICT Solutions for Challenges and Issues in e-Health” (NCICTEH'17). ***[SCOPUS*]***
 
 19.	G. Balamurugan, Dr. K. B. Jayarraman, **V. Arulalan**, V. Lokesh, *“Multimodal Biometric Key Generation for Cryptographic Security using FACE and IRIS”*, Advances in Natural and Applied Sciences, 9(6) Special 2015, Pages: 525-530, DSTE Sponsored National Conference on Intelligent Computing, January 2015 ***[*SCOPUS*]***
+
 
 ### WORKSHOPS ATTENDED
 
@@ -116,7 +119,17 @@ Christ College of Engineering and Technology, Puducherry.<br>
 14 .Attended *"Author Workshop"* jointly organized by Springer and Ananda Rangapillai Library held during 6th February 2014 at Pondicherry University, Puducherry.
 15. Attended AICTE Sponsored two days national seminar on *"Impact of Biometric Security Using Image Processing"* held during 12th November and 13th November 2013 at Manakula Vinayagar Institute of Technology, Puducherry.
 
+### PROFESSIONAL SOCIETY MEMBERSHIP
 
+* Professional Member in Association for Computing Machinery (ACM) MEMBERSHIP NO: **9451841**.
+* Senior Member in International Society for Research and Development (ISRD) MEMBERSHIP NO: **SR3140900615**.
+* Life Member in International Association for The Engineers (IAENG) MEMBERSHIP NO: **172053**.
+* Student Member [UACEE] in Institute of Research Engineers and Doctors (IRED) MEMBERSHIP NO: **SM10100059181**.
+
+ ### EXTRA CURRICULAR ACTIVITIES
+
+* An Active member in **Puduvai GLUG (GNU/Linux User Group)**, Puducherry.
+* An Active member for **PyCon INDIA 2019**.
 
 <!--<img src="/assets/oreily.png">                    <img src="/assets/acmai.png">                     <img src="/assets/specialo.jpg" >                                                                    
 <img src="/assets/reslife.png" >
