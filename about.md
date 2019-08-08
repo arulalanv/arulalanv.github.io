@@ -11,7 +11,7 @@ Currently a *Research Fellow* at [Department of Information Technology](https://
 #### Full-Time Research Scholar
 *01.2018 -- Present* <br>
 Dept. of Information Technology<br>
-Anna University, MIT Campus<br>
+Anna University, Madras Institute of Technology Campus<br>
 Chennai.
 
 #### Assistant Professor
