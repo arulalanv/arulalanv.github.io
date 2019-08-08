@@ -24,9 +24,9 @@ Christ College of Engineering and Technology, Puducherry.<br>
 <img src="/assets/clarifai.png" width="250">                    <img src="/assets/qualcomm.jpg" width="250">                     <img src="/assets/nrl.png" width="80">                     <img src="/assets/bu.gif" width="175"> -->
 ### EDUCATION QUALIFICATION
 
-**Ph.D** - *Faculty of Information and Communication Engineering* (ANNA UNIVERSITY) ***Pursuing***
-**M.TECH** - *Computer science and Engineering* (PONDICHERRY UNIVERSITY) 
-**B.TECH** - *Computer science and Engineering* (PONDICHERRY UNIVERSITY) 
+* **Ph.D** - *Faculty of Information and Communication Engineering* (ANNA UNIVERSITY) ***Pursuing***
+* **M.TECH** - *Computer science and Engineering* (PONDICHERRY UNIVERSITY) 
+* **B.TECH** - *Computer science and Engineering* (PONDICHERRY UNIVERSITY) 
 
 ### SCHOLASTIC ACHIEVEMENTS
 
