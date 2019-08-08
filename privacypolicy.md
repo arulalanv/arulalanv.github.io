@@ -8,4 +8,4 @@ The chatbot that you're using does not store any personal data. It is simply par
 
 There's no storing of personal information, no ads that will be sent to you, no promotional content, no selling of services, and no requesting of financial information.
 
-Contact me at adeshpande3@ucla.edu for any questions. 
+Contact me at arulalan@mitindia.edu for any questions. 
