@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ABOUT Me
+title: ABOUT ME
 permalink: /about/
 ---
 Currently a *Research Fellow* at [Department of Information Technology](https://http://it.mitindia.edu/), [Anna University](https://www.annauniv.edu/).
