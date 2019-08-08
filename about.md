@@ -8,14 +8,14 @@ Currently a Research Fellow at [Department of Information Technology](https://ht
 
 ### Experience
 
-## Full-Time Research Scholar
-</i>01.2018 -- Present</i> <br>
+#### Full-Time Research Scholar
+*01.2018 -- Present* <br>
 Dept. of Information Technology<br>
 Anna University, MIT Campus<br>
 Chennai.
 
-## Assistant Professor
-<i>06.2016 -- 12.2017</i> <br>
+#### Assistant Professor
+*06.2016 -- 12.2017* <br>
 Dept. of Computer Sceince and Engineering,<br>
 Christ College of Engineering and Technology, Puducherry.<br>
 
