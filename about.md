@@ -3,26 +3,29 @@ layout: page
 title: About
 permalink: /about/
 ---
-Currently a SWE at [Forward](https://goforward.com/). UCLA CS '19
+Currently a Research Fellow at [Department of Information Technology](https://http://it.mitindia.edu/), [Anna University](https://www.annauniv.edu/).
 
-### Internships
-
-<img src="/assets/clarifai.png" width="250">                    <img src="/assets/qualcomm.jpg" width="250">                     <img src="/assets/nrl.png" width="80">                     <img src="/assets/bu.gif" width="175">
-
-
-* Applied Machine Learning Intern at Clarifai (June 2018 - August 2018) 
-* Software Engineering Intern at Qualcomm (June 2017 - August 2017) 
-* Computer Engineer Intern at U.S Naval Research Lab (June 2016 - September 2016)
-* Research Intern in Boston RISE program (June 2014 - August 2014)
 
 ### Experience
-<img src="/assets/oreily.png">                    <img src="/assets/acmai.png">                     <img src="/assets/specialo.jpg" >                                                                    
+
+
+<!--### Internships
+
+<img src="/assets/clarifai.png" width="250">                    <img src="/assets/qualcomm.jpg" width="250">                     <img src="/assets/nrl.png" width="80">                     <img src="/assets/bu.gif" width="175"> -->
+### Education Qualification
+
+* Ph.D Faculty of Information and Communication Engineering (Anna University)
+* M.TECH Computer science and Engineering (Pondicherry University) 
+* B.TECH Computer science and Engineering (Pondicherry University) 
+
+
+<!--<img src="/assets/oreily.png">                    <img src="/assets/acmai.png">                     <img src="/assets/specialo.jpg" >                                                                    
 <img src="/assets/reslife.png" >
 
 * Author at O'Reilly Media 
 * President(2018-2019), Vice President(2017-2018) of UCLA ACM Artificial Intelligence
 * Peer Mentor with UCLA Engineering Mentorship Program 
-* UCLA Lead Resident Assistant(2018-2019), UCLA Resident Assistant(2017-2018)
+* UCLA Lead Resident Assistant(2018-2019), UCLA Resident Assistant(2017-2018)-->
 
 ### Published Writing
 
@@ -32,7 +35,7 @@ Currently a SWE at [Forward](https://goforward.com/). UCLA CS '19
 * [O'Reilly Generative Adversarial Network Tutorial](https://www.oreilly.com/learning/generative-adversarial-networks-for-beginners){:target="_blank"}
 * [O'Reilly LSTM Video Tutorial](https://www.oreilly.com/learning/perform-sentiment-analysis-with-lstms-using-tensorflow){:target="_blank"}
 
-### Teaching
+<!--### Teaching
 
 As a former president of UCLA's ACM AI group, I've presented/co-presented on the following topics (with slides attached).
 
@@ -46,6 +49,8 @@ As a former president of UCLA's ACM AI group, I've presented/co-presented on the
 * [Workshop #7: Recurrent Neural Networks with Tensorflow](https://docs.google.com/presentation/d/1MmU6mNhX0fuOE_z02bTtiXlgslRYSljuaU2OMatM7bg/edit?usp=sharing){:target="_blank"}
 
 <img src="/assets/Workshop.jpg">
+
+-->
 
 ### Books I'd Highly Recommend
 
@@ -66,4 +71,4 @@ As a former president of UCLA's ACM AI group, I've presented/co-presented on the
 
 ### Contact me
 
-[aditdeshpande3@gmail.com](mailto:aditdeshpande3@gmail.com)
+[arulalanveerappan@gmail.com](mailto:arulalanveerappan@gmail.com)
