@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: ABOUT Me
 permalink: /about/
 ---
 Currently a *Research Fellow* at [Department of Information Technology](https://http://it.mitindia.edu/), [Anna University](https://www.annauniv.edu/).
@@ -10,15 +10,14 @@ Currently a *Research Fellow* at [Department of Information Technology](https://
 
 #### **Full-Time Research Scholar**
 *01.2018 -- Present* <br>
-Dept. of Information Technology<br>
+Department of Information Technology<br>
 Anna University, Madras Institute of Technology Campus<br>
 Chennai.
 
 #### **Assistant Professor**
 *06.2016 -- 12.2017* <br>
-Dept. of Computer Sceince and Engineering,<br>
+Department of Computer Sceince and Engineering,<br>
 Christ College of Engineering and Technology, Puducherry.<br>
-
 
 <!--### Internships
 
@@ -159,7 +158,7 @@ Anna University, Chennai - 600044.<br>
 Email: [dhananjay@annauniv.edu](mailto:dhananjay@annauniv.edu)<br>
 
 
-**Dr. K. Suresh Joseph M.E., Ph.D.,**<br>
+**Dr. K. Suresh Joseph** *M.E., Ph.D.,*<br>
 Associate Professor,<br>
 Department of Computer Science,<br>
 School of Engineering and Technology,<br>
