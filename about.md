@@ -24,9 +24,9 @@ Christ College of Engineering and Technology, Puducherry.<br>
 <img src="/assets/clarifai.png" width="250">                    <img src="/assets/qualcomm.jpg" width="250">                     <img src="/assets/nrl.png" width="80">                     <img src="/assets/bu.gif" width="175"> -->
 ### EDUCATION QUALIFICATION
 
-#### * Ph.D - *Faculty of Information and Communication Engineering* (Anna University) **Pursuing**
-#### * M.TECH - *Computer science and Engineering* (Pondicherry University) 
-#### * B.TECH - *Computer science and Engineering* (Pondicherry University) 
+#### * **Ph.D** - *Faculty of Information and Communication Engineering* (Anna University) **Pursuing**
+#### * **M.TECH** - *Computer science and Engineering* (Pondicherry University) 
+#### * **B.TECH** - *Computer science and Engineering* (Pondicherry University) 
 
 ### TRAINING & CERTIFICATION
 
@@ -35,7 +35,7 @@ Christ College of Engineering and Technology, Puducherry.<br>
 
 ### SOFTWARE SKILL SET
 
-* Programming Languages		:  C, C++, Python
+* Programming Languages		: C, C++, Python
 * Libraries				    : OpenCV, TensorFlow, Pandas, NumPy, SciPy, Mathplotlib, PyTorch
 * Software Skills			: MATLAB, Apache Hadoop, Docker
 * Web Development		  	: HTML, CSS, MySQL
@@ -98,7 +98,23 @@ Christ College of Engineering and Technology, Puducherry.<br>
 
 19.	G. Balamurugan, Dr. K. B. Jayarraman, **V. Arulalan**, V. Lokesh, *“Multimodal Biometric Key Generation for Cryptographic Security using FACE and IRIS”*, Advances in Natural and Applied Sciences, 9(6) Special 2015, Pages: 525-530, DSTE Sponsored National Conference on Intelligent Computing, January 2015 ***[*SCOPUS*]***
 
+### WORKSHOPS ATTENDED
 
+1. Attended one day workshop on *"Global Azure Bootcamp"* held on 27 April 2019 at Tech Mahindra in association with MICROSOFT INDIA.
+2. Attended two days IET Chennai Local Network sponsored Workshop on “Machine Learning in Computer Vision using Python"* held during 27 and 28 March 2019 at SRM Institute of Science and Technology.
+3. Attended one-day workshop on *"Machine Learning od Industry 4.0"* held on 2 March 2019 at department of Manufacturing Engineering, CEG Campus, Anna University.
+4. Attended one day workshop on *"Transforming India with Deep Learning"* held on 9 October 2018, organized by NVIDIA Developer Connect, NVIDIA.
+5. Attended three days Workshop on *"Image Processing, Computer Vision and Machine Learning"* held during 3rd – 5th MAY 2018 organized by department of Electronics Engineering at Madras Institute of Technology, Anna University. 
+6. Attended one day workshop on *"How to Do a Good Ph.D."* held on 3rd March organized by Centre for Aerospace Research at Madras Institute of Technology, Anna University.
+7. Attended one day workshop on *"URKUND (Plagiarism Detection Tool)"* held on 28th October 2015 at Pondicherry University, Organized by Ananda Rangapillai Library, Pondicherry University in Collaboration with INFLIBNET Centre, Gujarat.
+8. Attended two days CSI sponsored Workshop on *"Image processing using MATLAB"* held during 23rd and 24th February 2015 at Manakula Vinayagar Institute of Technology, Puducherry.
+9. Attended five days national workshop on *"Advanced Trends in Optimization Methods & their Applications (ATOMA-2014)"* held during 8th September to 12th September 2014 at Pondicherry University, Puducherry.
+10. Attended national workshop on *"Image Processing Techniques using MATLAB"* held during 5th and 6th September 2014 at Kongu Engineering College, Erode.
+11. Attended five days national workshop on *"Research Trends in Digital Image Processing NWRTDIP 2014"* held during 18th August to 22nd August 2014 at Pondicherry University, Puducherry.
+12. Attended two days workshop on *"Big Data & Open Cloud"* held during 3rd April and 4th April 2014 at Pondicherry University, Puducherry.
+13. Attended one day national level workshop on *"Mobile Applications Development Using Android: A Practical Approach (WMADA 2014)"* held during 15th March 2014 at Pondicherry University, Puducherry.
+14 .Attended *"Author Workshop"* jointly organized by Springer and Ananda Rangapillai Library held during 6th February 2014 at Pondicherry University, Puducherry.
+15. Attended AICTE Sponsored two days national seminar on *"Impact of Biometric Security Using Image Processing"* held during 12th November and 13th November 2013 at Manakula Vinayagar Institute of Technology, Puducherry.
 
 
 
@@ -108,7 +124,7 @@ Christ College of Engineering and Technology, Puducherry.<br>
 * Author at O'Reilly Media 
 * President(2018-2019), Vice President(2017-2018) of UCLA ACM Artificial Intelligence
 * Peer Mentor with UCLA Engineering Mentorship Program 
-* UCLA Lead Resident Assistant(2018-2019), UCLA Resident Assistant(2017-2018)-->
+* UCLA Lead Resident Assistant(2018-2019), UCLA Resident Assistant(2017-2018)
 
 ### Published Writing
 
@@ -116,7 +132,9 @@ Christ College of Engineering and Technology, Puducherry.<br>
 * [Interview with KDnuggets](http://www.kdnuggets.com/2016/10/top-blogger-interview-adit-deshpande.html){:target="_blank"}
 * [DZone author page](https://dzone.com/users/2843746/adeshpande3.html){:target="_blank"}
 * [O'Reilly Generative Adversarial Network Tutorial](https://www.oreilly.com/learning/generative-adversarial-networks-for-beginners){:target="_blank"}
-* [O'Reilly LSTM Video Tutorial](https://www.oreilly.com/learning/perform-sentiment-analysis-with-lstms-using-tensorflow){:target="_blank"}
+* [O'Reilly LSTM Video Tutorial](https://www.oreilly.com/learning/perform-sentiment-analysis-with-lstms-using-tensorflow){:target="_blank"} 
+
+-->
 
 <!--### Teaching
 
