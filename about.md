@@ -110,14 +110,14 @@ Christ College of Engineering and Technology, Puducherry.<br>
 5. Attended three days Workshop on *"Image Processing, Computer Vision and Machine Learning"* held during 3rd – 5th MAY 2018 organized by department of Electronics Engineering at Madras Institute of Technology, Anna University. 
 6. Attended one day workshop on *"How to Do a Good Ph.D."* held on 3rd March organized by Centre for Aerospace Research at Madras Institute of Technology, Anna University.
 7. Attended one day workshop on *"URKUND (Plagiarism Detection Tool)"* held on 28th October 2015 at Pondicherry University, Organized by Ananda Rangapillai Library, Pondicherry University in Collaboration with INFLIBNET Centre, Gujarat.
-8. Attended two days CSI sponsored Workshop on *"Image processing using MATLAB"* held during 23rd and 24th February 2015 at Manakula Vinayagar Institute of Technology, Puducherry.
-9. Attended five days national workshop on *"Advanced Trends in Optimization Methods & their Applications (ATOMA-2014)"* held during 8th September to 12th September 2014 at Pondicherry University, Puducherry.
-10. Attended national workshop on *"Image Processing Techniques using MATLAB"* held during 5th and 6th September 2014 at Kongu Engineering College, Erode.
-11. Attended five days national workshop on *"Research Trends in Digital Image Processing NWRTDIP 2014"* held during 18th August to 22nd August 2014 at Pondicherry University, Puducherry.
-12. Attended two days workshop on *"Big Data & Open Cloud"* held during 3rd April and 4th April 2014 at Pondicherry University, Puducherry.
-13. Attended one day national level workshop on *"Mobile Applications Development Using Android: A Practical Approach (WMADA 2014)"* held during 15th March 2014 at Pondicherry University, Puducherry.
+8. Attended two days CSI sponsored Workshop on *"**Image processing using MATLAB**"* held during 23rd and 24th February 2015 at Manakula Vinayagar Institute of Technology, Puducherry.
+9. Attended five days national workshop on *"**Advanced Trends in Optimization Methods & their Applications (ATOMA-2014)**"* held during 8th September to 12th September 2014 at Pondicherry University, Puducherry.
+10. Attended national workshop on *"**Image Processing Techniques using MATLAB**"* held during 5th and 6th September 2014 at Kongu Engineering College, Erode.
+11. Attended five days national workshop on *"**Research Trends in Digital Image Processing NWRTDIP 2014**"* held during 18th August to 22nd August 2014 at Pondicherry University, Puducherry.
+12. Attended two days workshop on *"**Big Data & Open Cloud**"* held during 3rd April and 4th April 2014 at Pondicherry University, Puducherry.
+13. Attended one day national level workshop on *"**Mobile Applications Development Using Android: A Practical Approach (WMADA 2014)**"* held during 15th March 2014 at Pondicherry University, Puducherry.
 14 .Attended *"Author Workshop"* jointly organized by Springer and Ananda Rangapillai Library held during 6th February 2014 at Pondicherry University, Puducherry.
-15. Attended AICTE Sponsored two days national seminar on *"Impact of Biometric Security Using Image Processing"* held during 12th November and 13th November 2013 at Manakula Vinayagar Institute of Technology, Puducherry.
+15. Attended AICTE Sponsored two days national seminar on *"**Impact of Biometric Security Using Image Processing**"* held during 12th November and 13th November 2013 at Manakula Vinayagar Institute of Technology, Puducherry.
 
 ### PROFESSIONAL SOCIETY MEMBERSHIP
 
@@ -126,10 +126,31 @@ Christ College of Engineering and Technology, Puducherry.<br>
 * Life Member in International Association for The Engineers (IAENG) MEMBERSHIP NO: **172053**.
 * Student Member [UACEE] in Institute of Research Engineers and Doctors (IRED) MEMBERSHIP NO: **SM10100059181**.
 
- ### EXTRA CURRICULAR ACTIVITIES
+
+### EXTRA CURRICULAR ACTIVITIES
 
 * An Active member in **Puduvai GLUG (GNU/Linux User Group)**, Puducherry.
 * An Active member for **PyCon INDIA 2019**.
+
+### REFERENCES
+
+**Dr. Dhananjay Kumar** *M.E., M.Tech.,  Ph.D.,*<br>
+Professor and Head,<br>
+Department of Information Technology,<br>
+Madras Institute Of Technology Campus,<br>
+Anna University, Chennai - 600044.<br>
+Email: [dhananjay@annauniv.edu](mailto:dhananjay@annauniv.edu)<br>
+
+
+**Dr. K. Suresh Joseph M.E., Ph.D.,**<br>
+Associate Professor,<br>
+Department of Computer Science,<br>
+School of Engineering and Technology,<br>
+Pondicherry University,<br>
+Puducherry - 605014.<br>
+Email: [ksjoseph.csc@gmail.com](mailto:ksjoseph.csc@gmail.com)
+
+
 
 <!--<img src="/assets/oreily.png">                    <img src="/assets/acmai.png">                     <img src="/assets/specialo.jpg" >                                                                    
 <img src="/assets/reslife.png" >
