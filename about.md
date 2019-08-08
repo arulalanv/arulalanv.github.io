@@ -8,13 +8,13 @@ Currently a *Research Fellow* at [Department of Information Technology](https://
 
 ### EXPERIENCE
 
-#### Full-Time Research Scholar
+#### **Full-Time Research Scholar**
 *01.2018 -- Present* <br>
 Dept. of Information Technology<br>
 Anna University, Madras Institute of Technology Campus<br>
 Chennai.
 
-#### Assistant Professor
+#### **Assistant Professor**
 *06.2016 -- 12.2017* <br>
 Dept. of Computer Sceince and Engineering,<br>
 Christ College of Engineering and Technology, Puducherry.<br>
@@ -24,7 +24,7 @@ Christ College of Engineering and Technology, Puducherry.<br>
 <img src="/assets/clarifai.png" width="250">                    <img src="/assets/qualcomm.jpg" width="250">                     <img src="/assets/nrl.png" width="80">                     <img src="/assets/bu.gif" width="175"> -->
 ### EDUCATION QUALIFICATION
 
-#### * Ph.D - *Faculty of Information and Communication Engineering* (Anna University)***Pursuing***
+#### * Ph.D - *Faculty of Information and Communication Engineering* (Anna University) **Pursuing**
 #### * M.TECH - *Computer science and Engineering* (Pondicherry University) 
 #### * B.TECH - *Computer science and Engineering* (Pondicherry University) 
 
