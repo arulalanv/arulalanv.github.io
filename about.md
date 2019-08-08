@@ -3,18 +3,18 @@ layout: page
 title: ABOUT ME
 permalink: /about/
 ---
-Currently a *Research Fellow* at [Department of Information Technology](https://http://it.mitindia.edu/), [Anna University](https://www.annauniv.edu/).
+Currently a ***Research Fellow*** at [Department of Information Technology](https://http://it.mitindia.edu/), [Anna University](https://www.annauniv.edu/).
 
 
 ### EXPERIENCE
 
-#### **Full-Time Research Scholar**
+**Full-Time Research Scholar**
 *01.2018 -- Present* <br>
 Department of Information Technology<br>
 Anna University, Madras Institute of Technology Campus<br>
 Chennai.
 
-#### **Assistant Professor**
+**Assistant Professor**
 *06.2016 -- 12.2017* <br>
 Department of Computer Sceince and Engineering,<br>
 Christ College of Engineering and Technology, Puducherry.<br>
@@ -24,15 +24,23 @@ Christ College of Engineering and Technology, Puducherry.<br>
 <img src="/assets/clarifai.png" width="250">                    <img src="/assets/qualcomm.jpg" width="250">                     <img src="/assets/nrl.png" width="80">                     <img src="/assets/bu.gif" width="175"> -->
 ### EDUCATION QUALIFICATION
 
-#### * **Ph.D** - *Faculty of Information and Communication Engineering* (Anna University) **Pursuing**
-#### * **M.TECH** - *Computer science and Engineering* (Pondicherry University) 
-#### * **B.TECH** - *Computer science and Engineering* (Pondicherry University) 
+**Ph.D** - *Faculty of Information and Communication Engineering* (ANNA UNIVERSITY) ***Pursuing***
+**M.TECH** - *Computer science and Engineering* (PONDICHERRY UNIVERSITY) 
+**B.TECH** - *Computer science and Engineering* (PONDICHERRY UNIVERSITY) 
 
+### SCHOLASTIC ACHIEVEMENTS
+
+* Received **Anna Centenary Research Fellowship (ACRF 2018)** scholarship from Anna University, INDIA.[ Award Letter No.:CFR/ACRF/2018/AR1/35]
+* Awarded **Mentor Certificate** for the course ***“Introduction to Modern Application Development”*** from NPTEL organized by IIT-Madras in partnership with NASSCOM.
 
 ### TRAINING & CERTIFICATION
 
-* Completed 8 Weeks NPTEL course *“Introduction to Modern Application Development”*with a consolidated score of 70% organized by IIT-Madras in partnership with NASSCOM. <br>
+* Completed 8 Weeks NPTEL course ***“Introduction to Modern Application Development”*** with a consolidated score of 70% organized by IIT-Madras in partnership with NASSCOM. <br>
  *Roll No: NPTEL17CS0626640346FN [To validate and check scores: http://nptel.ac.in/noc]*
+
+ * Completed ***"Python Programming For Absolute Beginners"*** @ Udemy<br>
+ *Certificate No.: UC-1OJ0G87C | Certificate url: ude.my/UC-1OJ0G87C*
+ 
 
 
 ### SOFTWARE SKILL SET
