@@ -46,7 +46,7 @@ images:
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The reasoning behind this whole process is that we want to examine what type of structures excite a given feature map. Let&rsquo;s look at the visualizations of the first and second layers.</p>
 <!-- ZFNet pic 2 -->
 <img src="/assets/deconvnet.png">
-<p>Like we discussed in <a href="https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/" target="_blank">Part 1</a>, the first layer of your ConvNet is always a low level feature detector that will detect simple edges or colors in this particular case. We can see that with the second layer, we have more circular features that are being detected. Let&rsquo;s look at layers 3, 4, and 5.</p>
+<!--<p>Like we discussed in <a href="https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/" target="_blank">Part 1</a>, the first layer of your ConvNet is always a low level feature detector that will detect simple edges or colors in this particular case. We can see that with the second layer, we have more circular features that are being detected. Let&rsquo;s look at layers 3, 4, and 5.</p>-->
 <!-- ZFNet pic 3 -->
 <img src="/assets/deconvnet2.png">
 <p>These layers show a lot more of the higher level features such as dogs&rsquo; faces or flowers. One thing to note is that as you may remember, after the first conv layer, we normally have a pooling layer that downsamples the image (for example, turns a 32x32x3 volume into a 16x16x3 volume). The effect this has is that the 2<sup>nd</sup> layer has a broader scope of what it can see in the original image. For more info on deconvnet or the paper in general, check out Zeiler himself <a href="https://www.youtube.com/watch?v=ghEmQSxT6tw" target="_blank">presenting</a> on the topic.</p>
@@ -183,11 +183,11 @@ images:
 <a href = "/assets/Sources3.txt" target= "_blank"> Sources</a> 
 <p></p>
 <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<script>
+<!--<script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
   ga('create', 'UA-80811190-1', 'auto');
   ga('send', 'pageview');
-</script>
+</script>-->
