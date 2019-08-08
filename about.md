@@ -61,7 +61,7 @@ Christ College of Engineering and Technology, Puducherry.<br>
 
 ### PUBLICATIONS
 
-*ORCID ID: https://orcid.org/0000-0001-9312-2143*
+[*ORCID ID: https://orcid.org/0000-0001-9312-2143*](https://orcid.org/0000-0001-9312-2143)
 
 #### IN PEER REVIEWED INTERNATIONAL JOURNALS
 
