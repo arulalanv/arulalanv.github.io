@@ -6,7 +6,7 @@ permalink: /about/
 Currently a *Research Fellow* at [Department of Information Technology](https://http://it.mitindia.edu/), [Anna University](https://www.annauniv.edu/).
 
 
-### Experience
+### EXPERIENCE
 
 #### Full-Time Research Scholar
 *01.2018 -- Present* <br>
@@ -22,11 +22,84 @@ Christ College of Engineering and Technology, Puducherry.<br>
 <!--### Internships
 
 <img src="/assets/clarifai.png" width="250">                    <img src="/assets/qualcomm.jpg" width="250">                     <img src="/assets/nrl.png" width="80">                     <img src="/assets/bu.gif" width="175"> -->
-### Education Qualification
+### EDUCATION QUALIFICATION
 
 #### * Ph.D - *Faculty of Information and Communication Engineering* (Anna University)*Pursuing*
 #### * M.TECH - *Computer science and Engineering* (Pondicherry University) 
 #### * B.TECH - *Computer science and Engineering* (Pondicherry University) 
+
+### TRAINING & CERTIFICATION
+
+* Completed 8 Weeks NPTEL course *“Introduction to Modern Application Development”*with a consolidated score of 70% organized by IIT-Madras in partnership with NASSCOM. <br>
+ *Roll No: NPTEL17CS0626640346FN [To validate and check scores: http://nptel.ac.in/noc]*
+
+### SOFTWARE SKILL SET
+
+* Programming Languages		:  C, C++, Python
+* Libraries				    : OpenCV, TensorFlow, Pandas, NumPy, SciPy, Mathplotlib, PyTorch
+* Software Skills			: MATLAB, Apache Hadoop, Docker
+* Web Development		  	: HTML, CSS, MySQL
+
+### AREAS OF INTERESTS
+
+* Video Processing and Analytics
+* Data Science and Analytics
+* Machine & Deep Learning
+* Biometric Security
+
+###  PUBLICATIONS
+
+*ORCID ID: https://orcid.org/0000-0001-9312-2143*
+
+#### IN PEER REVIEWED INTERNATIONAL JOURNALS
+
+1.	V. Arulalan, G. Balamurugan, V. Premanand, “Multi Modal Biometric Recognition System using Palm print and Inner-Knuckle Print”, International Journal of Applied Engineering Research, Volume 10, Number 14 (2015) pp 34748-34751. [SCOPUS]
+
+2.	V. Arulalan, V. Premanand, G. Balamurugan, “An Overview on multi Modal Biometrics”, International Journal of Applied Engineering Research, Volume 10, Number 17 (2015) pp 37534-37538. [SCOPUS]
+
+3.	V. Premanand, A. Meiappane, V. Arulalan, “Survey on Captcha and its Techniques for BOT Protection”, International Journal of Computer Applications (0975 – 8887) Volume 109 – No. 5, January 2015.
+
+4.	V. Arulalan, N. Geetha, V. Premanand, "Multimodal Biometric System using Iris and Inner-Knuckle Print", International Journal of Computer Applications (0975 – 8887)  Volume 106 – No.6, November 2014.
+
+5.	G. Balamurugan, V. Arulalan, V. Lokesh, “Customer - Management Relationship Service using Android”, International Journal of Computer Applications (0975 – 8887) Volume 105 – No. 10, November 2014.
+
+6.	G. Balamurugan, Dr. K. B.  Jayarraman, V. Arulalan, “A Survey on Medical Image Watermarking Techniques”, IJCSN International Journal of Computer Science and Network, Volume 3, Issue 5, October 2014.
+
+7.	G. Balamurugan, Dr. K. B. Jayarraman, V. Arulalan, “Multi-Modal Biometric Template Protection Using Image Processing”, International Journal of Engineering Research & Technology (IJERT) Vol. 3 Issue 4, April – 2014.
+
+8.	V. Arulalan, G. Balamurugan, V. Premanand, "A Survey on Biometric Recognition Techniques”, International Journal of Advanced Research in Computer and Communication Engineering Vol. 3, Issue 2, February 2014.
+
+9.	G. Balamurugan, Sakthivel Punniakodi, V. Arulalan, C. Jayanavithraa, "Multipath Forwarding in VANET for Message Dissemination", International Journal of Advanced Research in Computer and Communication Engineering Vol. 2, Issue 11, November 2013.
+
+
+####  IN PEER REVIEWED INTERNATIONAL CONFERENCES
+
+10.	V. Arulalan, Dhananjay Kumar, V. Premanand, “An Item Based Collaborative Filtering For Similar Movie Search”, International Conference on Computational Vision and Bio Inspired Computing-SPRINGER, 2018.
+
+11.	V. Premanand, Dhananjay Kumar, V. Arulalan, “An İnstance İdentification Using Randomized Ring Matching via Score Generation”, International Conference on Computational Vision and Bio Inspired Computing-SPRINGER, 2018. 
+
+12.	G. Balamurugan, V. Arulalan, K. Suresh Joseph, “Digital Image Protection Using Reversible Watermarking and Private Symmetric Key Encryption Technique”, International Journal of Advanced Information Science and Technology (IJAIST), Vol.6, No.1, ISSN: 2319:2682, November 2017, 1st International Conference on Recent Trends in Engineering & Technology, ICRTET’17.
+
+13.	V. Arulalan, Dr. K. Suresh Joseph, V. Premanand, *“Securing Digital Data using 256-bit Multimodal Biometrics based Cryptographic Key”*, IEEE Sponsored World Conference on Futuristic Trends in Research and Innovation for Social Welfare (WCFTR’16), ISBN: 978-1-4673-9214-3, March 2016.
+
+14.	G. Balamurugan, Dr. K. Suresh Joseph, V. Arulalan, *“An Iris based Reversible Watermarking for the Security of Teleradiology”*, IEEE Sponsored World Conference on Futuristic Trends in Research and Innovation for Social Welfare (WCFTR’16), ISBN: 978-1-4673-9214-3, March 2016.
+
+15.	V. Arulalan, Dr. K. Suresh Joseph, *“Score Level Fusion of Iris and Finger Knuckle Print”*, IEEE 10th International Conference on Intelligent Systems and Control (ISCO’16), ISBN: 978-1-4673-7807-9, January 2016.
+
+16.	G. Balamurugan, Sakthivel Punniakodi, K. Rajeswari, V. Arulalan, *"Automatic Number Plate Recognition System Using Super-Resolution Technique”*, 2015 IEEE International Conference on Computing and Communications Technologies (ICCCT’15), ISBN:978-1-4799-7623-2/15/$31.00 ©2015 IEEE, February 2015.
+
+17.	G. Balamurugan, Dr. K. B. Jayarraman, V. Arulalan, *“An Iris Based Watermarking System for the Security Issues of Teleradiology”*, International Journal of Applied Engineering Research, Vol. 9 No. 20, 2014. [SCOPUS]
+
+
+#### IN PEER REVIEWED NATIONAL CONFERENCES
+
+
+18.	V. Arulalan, DR. K. Suresh Joseph and G. Balamurugan, *“Safety Driver: Reducing Driver Distraction Using Integrated Smart Sensors”*, Advances in Natural and Applied Sciences, Volume 11, Number 12, October, 2017, Pages: 63-69, ICMR sponsored National Conference on “ICT Solutions for Challenges and Issues in e-Health” (NCICTEH'17). [SCOPUS]
+
+19.	G. Balamurugan, Dr. K. B. Jayarraman, V. Arulalan, V. Lokesh, *“Multimodal Biometric Key Generation for Cryptographic Security using FACE and IRIS”*, Advances in Natural and Applied Sciences, 9(6) Special 2015, Pages: 525-530, DSTE Sponsored National Conference on Intelligent Computing, January 2015 [SCOPUS]
+
+
+
 
 
 <!--<img src="/assets/oreily.png">                    <img src="/assets/acmai.png">                     <img src="/assets/specialo.jpg" >                                                                    
