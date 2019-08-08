@@ -103,21 +103,38 @@ Christ College of Engineering and Technology, Puducherry.<br>
 
 ### WORKSHOPS ATTENDED
 
-1. Attended one day workshop on *"Global Azure Bootcamp"* held on 27 April 2019 at Tech Mahindra in association with MICROSOFT INDIA.
-2. Attended two days IET Chennai Local Network sponsored Workshop on “Machine Learning in Computer Vision using Python"* held during 27 and 28 March 2019 at SRM Institute of Science and Technology.
-3. Attended one-day workshop on *"Machine Learning od Industry 4.0"* held on 2 March 2019 at department of Manufacturing Engineering, CEG Campus, Anna University.
-4. Attended one day workshop on *"Transforming India with Deep Learning"* held on 9 October 2018, organized by NVIDIA Developer Connect, NVIDIA.
-5. Attended three days Workshop on *"Image Processing, Computer Vision and Machine Learning"* held during 3rd – 5th MAY 2018 organized by department of Electronics Engineering at Madras Institute of Technology, Anna University. 
-6. Attended one day workshop on *"How to Do a Good Ph.D."* held on 3rd March organized by Centre for Aerospace Research at Madras Institute of Technology, Anna University.
-7. Attended one day workshop on *"URKUND (Plagiarism Detection Tool)"* held on 28th October 2015 at Pondicherry University, Organized by Ananda Rangapillai Library, Pondicherry University in Collaboration with INFLIBNET Centre, Gujarat.
-8. Attended two days CSI sponsored Workshop on *"**Image processing using MATLAB**"* held during 23rd and 24th February 2015 at Manakula Vinayagar Institute of Technology, Puducherry.
-9. Attended five days national workshop on *"**Advanced Trends in Optimization Methods & their Applications (ATOMA-2014)**"* held during 8th September to 12th September 2014 at Pondicherry University, Puducherry.
-10. Attended national workshop on *"**Image Processing Techniques using MATLAB**"* held during 5th and 6th September 2014 at Kongu Engineering College, Erode.
-11. Attended five days national workshop on *"**Research Trends in Digital Image Processing NWRTDIP 2014**"* held during 18th August to 22nd August 2014 at Pondicherry University, Puducherry.
-12. Attended two days workshop on *"**Big Data & Open Cloud**"* held during 3rd April and 4th April 2014 at Pondicherry University, Puducherry.
-13. Attended one day national level workshop on *"**Mobile Applications Development Using Android: A Practical Approach (WMADA 2014)**"* held during 15th March 2014 at Pondicherry University, Puducherry.
-14 .Attended *"Author Workshop"* jointly organized by Springer and Ananda Rangapillai Library held during 6th February 2014 at Pondicherry University, Puducherry.
-15. Attended AICTE Sponsored two days national seminar on *"**Impact of Biometric Security Using Image Processing**"* held during 12th November and 13th November 2013 at Manakula Vinayagar Institute of Technology, Puducherry.
+1. Attended tw0 days workshop on ***”Hands on Training on Artificial Neural Network Using MATLAB”*** held during 3rd August and 4th August at School of Electrical Engineering, Vellore Institute of Technology, Chennai.
+
+2. Attended one day workshop on ***"Global Azure Bootcamp"*** held on 27 April 2019 at Tech Mahindra in association with MICROSOFT INDIA.
+
+3. Attended two days IET Chennai Local Network sponsored Workshop on ***“Machine Learning in Computer Vision using Python"*** held during 27 and 28 March 2019 at SRM Institute of Science and Technology.
+
+4. Attended one-day workshop on ***"Machine Learning od Industry 4.0"*** held on 2 March 2019 at department of Manufacturing Engineering, CEG Campus, Anna University.
+
+5. Attended one day workshop on ***"Transforming India with Deep Learning"*** held on 9 October 2018, organized by NVIDIA Developer Connect, NVIDIA.
+
+6. Attended three days Workshop on ***"Image Processing, Computer Vision and Machine Learning"*** held during 3rd – 5th MAY 2018 organized by department of Electronics Engineering at Madras Institute of Technology, Anna University. 
+
+7. Attended one day workshop on ***"How to Do a Good Ph.D."*** held on 3rd March organized by Centre for Aerospace Research at Madras Institute of Technology, Anna University.
+
+8. Attended one day workshop on ***"URKUND (Plagiarism Detection Tool)"*** held on 28th October 2015 at Pondicherry University, Organized by Ananda Rangapillai Library, Pondicherry University in Collaboration with INFLIBNET Centre, Gujarat.
+
+9. Attended two days CSI sponsored Workshop on ***"Image processing using MATLAB"*** held during 23rd and 24th February 2015 at Manakula Vinayagar Institute of Technology, Puducherry.
+
+10. Attended five days national workshop on ***"Advanced Trends in Optimization Methods & their Applications (ATOMA-2014)"*** held during 8th September to 12th September 2014 at Pondicherry University, Puducherry.
+
+11. Attended national workshop on ***"Image Processing Techniques using MATLAB"*** held during 5th and 6th September 2014 at Kongu Engineering College, Erode.
+
+12.	Attended five days national workshop on ***"Research Trends in Digital Image Processing NWRTDIP 2014"*** held during 18th August to 22nd August 2014 at Pondicherry University, Puducherry.
+
+13.	Attended two days workshop on ***"Big Data & Open Cloud"*** held during 3rd  April and 4th April 2014 at Pondicherry University, Puducherry.
+
+14.	Attended one day national level workshop on ***"Mobile Applications Development Using Android: A Practical Approach (WMADA 2014)"*** held during 15th March 2014 at Pondicherry University, Puducherry.
+
+15.	Attended *"Author Workshop"* jointly organized by Springer and Ananda Rangapillai Library held during 6th February 2014 at Pondicherry University, Puducherry.
+
+16.	Attended AICTE Sponsored two days national seminar on ***"Impact of Biometric Security Using Image Processing"*** held during 12th November and 13th November 2013 at Manakula Vinayagar Institute of Technology, Puducherry.
+
 
 ### PROFESSIONAL SOCIETY MEMBERSHIP
 
