@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-Currently a Research Fellow at [Department of Information Technology](https://http://it.mitindia.edu/), [Anna University](https://www.annauniv.edu/).
+Currently a *Research Fellow* at [Department of Information Technology](https://http://it.mitindia.edu/), [Anna University](https://www.annauniv.edu/).
 
 
 ### Experience
@@ -24,9 +24,9 @@ Christ College of Engineering and Technology, Puducherry.<br>
 <img src="/assets/clarifai.png" width="250">                    <img src="/assets/qualcomm.jpg" width="250">                     <img src="/assets/nrl.png" width="80">                     <img src="/assets/bu.gif" width="175"> -->
 ### Education Qualification
 
-* Ph.D Faculty of Information and Communication Engineering (Anna University)
-* M.TECH Computer science and Engineering (Pondicherry University) 
-* B.TECH Computer science and Engineering (Pondicherry University) 
+#### * Ph.D - *Faculty of Information and Communication Engineering* (Anna University)*Pursuing*
+#### * M.TECH - *Computer science and Engineering* (Pondicherry University) 
+#### * B.TECH - *Computer science and Engineering* (Pondicherry University) 
 
 
 <!--<img src="/assets/oreily.png">                    <img src="/assets/acmai.png">                     <img src="/assets/specialo.jpg" >                                                                    
@@ -60,7 +60,7 @@ As a former president of UCLA's ACM AI group, I've presented/co-presented on the
 
 <img src="/assets/Workshop.jpg">
 
--->
+
 
 ### Books I'd Highly Recommend
 
@@ -78,6 +78,7 @@ As a former president of UCLA's ACM AI group, I've presented/co-presented on the
 * *Tuesdays with Morrie* - Mitch Albom
 * *Out of Mao's Shadow: The Struggle for the Soul of a New China* - Philip P. Pan
 * *Just Mercy* - Bryan Stevenson
+-->
 
 ### Contact me
 
