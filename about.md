@@ -53,32 +53,32 @@ Christ College of Engineering and Technology, Puducherry.<br>
 
 #### IN PEER REVIEWED INTERNATIONAL JOURNALS
 
-1.	V. Arulalan, G. Balamurugan, V. Premanand, “Multi Modal Biometric Recognition System using Palm print and Inner-Knuckle Print”, International Journal of Applied Engineering Research, Volume 10, Number 14 (2015) pp 34748-34751. [SCOPUS]
+1.	V. Arulalan, G. Balamurugan, V. Premanand, *“Multi Modal Biometric Recognition System using Palm print and Inner-Knuckle Print”*, International Journal of Applied Engineering Research, Volume 10, Number 14 (2015) pp 34748-34751. [SCOPUS]
 
-2.	V. Arulalan, V. Premanand, G. Balamurugan, “An Overview on multi Modal Biometrics”, International Journal of Applied Engineering Research, Volume 10, Number 17 (2015) pp 37534-37538. [SCOPUS]
+2.	V. Arulalan, V. Premanand, G. Balamurugan, *“An Overview on multi Modal Biometrics”*, International Journal of Applied Engineering Research, Volume 10, Number 17 (2015) pp 37534-37538. [SCOPUS]
 
-3.	V. Premanand, A. Meiappane, V. Arulalan, “Survey on Captcha and its Techniques for BOT Protection”, International Journal of Computer Applications (0975 – 8887) Volume 109 – No. 5, January 2015.
+3.	V. Premanand, A. Meiappane, V. Arulalan, *“Survey on Captcha and its Techniques for BOT Protection”*, International Journal of Computer Applications (0975 – 8887) Volume 109 – No. 5, January 2015.
 
-4.	V. Arulalan, N. Geetha, V. Premanand, "Multimodal Biometric System using Iris and Inner-Knuckle Print", International Journal of Computer Applications (0975 – 8887)  Volume 106 – No.6, November 2014.
+4.	V. Arulalan, N. Geetha, V. Premanand, *"Multimodal Biometric System using Iris and Inner-Knuckle Print"*, International Journal of Computer Applications (0975 – 8887)  Volume 106 – No.6, November 2014.
 
-5.	G. Balamurugan, V. Arulalan, V. Lokesh, “Customer - Management Relationship Service using Android”, International Journal of Computer Applications (0975 – 8887) Volume 105 – No. 10, November 2014.
+5.	G. Balamurugan, V. Arulalan, V. Lokesh, *“Customer - Management Relationship Service using Android”*, International Journal of Computer Applications (0975 – 8887) Volume 105 – No. 10, November 2014.
 
 6.	G. Balamurugan, Dr. K. B.  Jayarraman, V. Arulalan, “A Survey on Medical Image Watermarking Techniques”, IJCSN International Journal of Computer Science and Network, Volume 3, Issue 5, October 2014.
 
-7.	G. Balamurugan, Dr. K. B. Jayarraman, V. Arulalan, “Multi-Modal Biometric Template Protection Using Image Processing”, International Journal of Engineering Research & Technology (IJERT) Vol. 3 Issue 4, April – 2014.
+7.	G. Balamurugan, Dr. K. B. Jayarraman, V. Arulalan, *“Multi-Modal Biometric Template Protection Using Image Processing”*, International Journal of Engineering Research & Technology (IJERT) Vol. 3 Issue 4, April – 2014.
 
 8.	V. Arulalan, G. Balamurugan, V. Premanand, "A Survey on Biometric Recognition Techniques”, International Journal of Advanced Research in Computer and Communication Engineering Vol. 3, Issue 2, February 2014.
 
-9.	G. Balamurugan, Sakthivel Punniakodi, V. Arulalan, C. Jayanavithraa, "Multipath Forwarding in VANET for Message Dissemination", International Journal of Advanced Research in Computer and Communication Engineering Vol. 2, Issue 11, November 2013.
+9.	G. Balamurugan, Sakthivel Punniakodi, V. Arulalan, C. Jayanavithraa, *"Multipath Forwarding in VANET for Message Dissemination"*, International Journal of Advanced Research in Computer and Communication Engineering Vol. 2, Issue 11, November 2013.
 
 
 ####  IN PEER REVIEWED INTERNATIONAL CONFERENCES
 
-10.	V. Arulalan, Dhananjay Kumar, V. Premanand, “An Item Based Collaborative Filtering For Similar Movie Search”, International Conference on Computational Vision and Bio Inspired Computing-SPRINGER, 2018.
+10.	V. Arulalan, Dhananjay Kumar, V. Premanand, *“An Item Based Collaborative Filtering For Similar Movie Search”*, International Conference on Computational Vision and Bio Inspired Computing-SPRINGER, 2018.
 
 11.	V. Premanand, Dhananjay Kumar, V. Arulalan, “An İnstance İdentification Using Randomized Ring Matching via Score Generation”, International Conference on Computational Vision and Bio Inspired Computing-SPRINGER, 2018. 
 
-12.	G. Balamurugan, V. Arulalan, K. Suresh Joseph, “Digital Image Protection Using Reversible Watermarking and Private Symmetric Key Encryption Technique”, International Journal of Advanced Information Science and Technology (IJAIST), Vol.6, No.1, ISSN: 2319:2682, November 2017, 1st International Conference on Recent Trends in Engineering & Technology, ICRTET’17.
+12.	G. Balamurugan, V. Arulalan, K. Suresh Joseph, *“Digital Image Protection Using Reversible Watermarking and Private Symmetric Key Encryption Technique”*, International Journal of Advanced Information Science and Technology (IJAIST), Vol.6, No.1, ISSN: 2319:2682, November 2017, 1st International Conference on Recent Trends in Engineering & Technology, ICRTET’17.
 
 13.	V. Arulalan, Dr. K. Suresh Joseph, V. Premanand, *“Securing Digital Data using 256-bit Multimodal Biometrics based Cryptographic Key”*, IEEE Sponsored World Conference on Futuristic Trends in Research and Innovation for Social Welfare (WCFTR’16), ISBN: 978-1-4673-9214-3, March 2016.
 
