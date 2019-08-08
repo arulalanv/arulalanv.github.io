@@ -39,8 +39,8 @@ Christ College of Engineering and Technology, Puducherry.<br>
  *Roll No: NPTEL17CS0626640346FN [To validate and check scores: http://nptel.ac.in/noc]*
 
  * Completed ***"Python Programming For Absolute Beginners"*** @ Udemy<br>
- *Certificate No.: UC-1OJ0G87C | Certificate url: ude.my/UC-1OJ0G87C*
- 
+ *Certificate No.: UC-1OJ0G87C | [Certificate url](https://www.ude.my/UC-1OJ0G87C)*
+
 
 
 ### SOFTWARE SKILL SET
@@ -103,9 +103,9 @@ Christ College of Engineering and Technology, Puducherry.<br>
 
 #### IN PEER REVIEWED NATIONAL CONFERENCES
 
-18.	**V. Arulalan**, DR. K. Suresh Joseph and G. Balamurugan, *“Safety Driver: Reducing Driver Distraction Using Integrated Smart Sensors”*, Advances in Natural and Applied Sciences, Volume 11, Number 12, October, 2017, Pages: 63-69, ICMR sponsored National Conference on “ICT Solutions for Challenges and Issues in e-Health” (NCICTEH'17). ***[SCOPUS*]***
+18.	**V. Arulalan**, DR. K. Suresh Joseph and G. Balamurugan, *“Safety Driver: Reducing Driver Distraction Using Integrated Smart Sensors”*, Advances in Natural and Applied Sciences, Volume 11, Number 12, October, 2017, Pages: 63-69, ICMR sponsored National Conference on “ICT Solutions for Challenges and Issues in e-Health” (NCICTEH'17). ***[SCOPUS]***
 
-19.	G. Balamurugan, Dr. K. B. Jayarraman, **V. Arulalan**, V. Lokesh, *“Multimodal Biometric Key Generation for Cryptographic Security using FACE and IRIS”*, Advances in Natural and Applied Sciences, 9(6) Special 2015, Pages: 525-530, DSTE Sponsored National Conference on Intelligent Computing, January 2015 ***[*SCOPUS*]***
+19.	G. Balamurugan, Dr. K. B. Jayarraman, **V. Arulalan**, V. Lokesh, *“Multimodal Biometric Key Generation for Cryptographic Security using FACE and IRIS”*, Advances in Natural and Applied Sciences, 9(6) Special 2015, Pages: 525-530, DSTE Sponsored National Conference on Intelligent Computing, January 2015 ***[SCOPUS]***
 
 
 ### WORKSHOPS ATTENDED
