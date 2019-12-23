@@ -64,7 +64,7 @@ Christ College of Engineering and Technology, Puducherry.<br>
 [*ORCID ID: https://orcid.org/0000-0001-9312-2143*](https://orcid.org/0000-0001-9312-2143)
 
 #### IN PEER REVIEWED INTERNATIONAL JOURNALS
-
+<p align="justify">
 1.	**V. Arulalan**, G. Balamurugan, V. Premanand, *“Multi Modal Biometric Recognition System using Palm print and Inner-Knuckle Print”*, International Journal of Applied Engineering Research, Volume 10, Number 14 (2015) pp 34748-34751. ***[SCOPUS]***
 
 2.	**V. Arulalan**, V. Premanand, G. Balamurugan, *“An Overview on multi Modal Biometrics”*, International Journal of Applied Engineering Research, Volume 10, Number 17 (2015) pp 37534-37538. ***[SCOPUS]***
@@ -106,10 +106,10 @@ Christ College of Engineering and Technology, Puducherry.<br>
 18.	**V. Arulalan**, DR. K. Suresh Joseph and G. Balamurugan, *“Safety Driver: Reducing Driver Distraction Using Integrated Smart Sensors”*, Advances in Natural and Applied Sciences, Volume 11, Number 12, October, 2017, Pages: 63-69, ICMR sponsored National Conference on “ICT Solutions for Challenges and Issues in e-Health” (NCICTEH'17). ***[SCOPUS]***
 
 19.	G. Balamurugan, Dr. K. B. Jayarraman, **V. Arulalan**, V. Lokesh, *“Multimodal Biometric Key Generation for Cryptographic Security using FACE and IRIS”*, Advances in Natural and Applied Sciences, 9(6) Special 2015, Pages: 525-530, DSTE Sponsored National Conference on Intelligent Computing, January 2015 ***[SCOPUS]***
-
+</p>
 
 ### WORKSHOPS ATTENDED
-
+<p align="justify">
 1.	Attended five days AICTE sponsored ATAL FDP on ***“Artificial Intelligence”*** held during 11-15 November, 2019 in the Department of Information Technology, MIT Campus, Anna University, Chennai.
 
 2.	Attended one day workshop on ***“Intellectual Property Rights-2019 (IPR-2019)”*** held on 27th September 2019 at AC Tech Campus, Anna University, Chennai.
@@ -145,7 +145,7 @@ Christ College of Engineering and Technology, Puducherry.<br>
 17.	Attended *"Author Workshop"* jointly organized by Springer and Ananda Rangapillai Library held during 6th February 2014 at Pondicherry University, Puducherry.
 
 18.	Attended AICTE Sponsored two days national seminar on ***"Impact of Biometric Security Using Image Processing"*** held during 12th November and 13th November 2013 at Manakula Vinayagar Institute of Technology, Puducherry.
-
+</p>
 ### PROFESSIONAL SOCIETY MEMBERSHIP
 
 * Professional Member in Association for Computing Machinery (ACM) MEMBERSHIP NO: **9451841**.
