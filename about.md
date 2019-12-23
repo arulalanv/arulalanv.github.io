@@ -64,88 +64,88 @@ Christ College of Engineering and Technology, Puducherry.<br>
 [*ORCID ID: https://orcid.org/0000-0001-9312-2143*](https://orcid.org/0000-0001-9312-2143)
 
 #### IN PEER REVIEWED INTERNATIONAL JOURNALS
-<p align="justify">
-1.	**V. Arulalan**, G. Balamurugan, V. Premanand, *“Multi Modal Biometric Recognition System using Palm print and Inner-Knuckle Print”*, International Journal of Applied Engineering Research, Volume 10, Number 14 (2015) pp 34748-34751. ***[SCOPUS]***</p>
-<p align="justify">
-2.	**V. Arulalan**, V. Premanand, G. Balamurugan, *“An Overview on multi Modal Biometrics”*, International Journal of Applied Engineering Research, Volume 10, Number 17 (2015) pp 37534-37538. ***[SCOPUS]***</p>
-<p align="justify">
-3.	V. Premanand, A. Meiappane, **V. Arulalan**, *“Survey on Captcha and its Techniques for BOT Protection”*, International Journal of Computer Applications (0975 – 8887) Volume 109 – No. 5, January 2015.</p>
-<p align="justify">
-4.	**V. Arulalan**, N. Geetha, V. Premanand, *"Multimodal Biometric System using Iris and Inner-Knuckle Print"*, International Journal of Computer Applications (0975 – 8887)  Volume 106 – No.6, November 2014.</p>
-<p align="justify">
-5.	G. Balamurugan, **V. Arulalan**, V. Lokesh, *“Customer - Management Relationship Service using Android”*, International Journal of Computer Applications (0975 – 8887) Volume 105 – No. 10, November 2014.</p>
-<p align="justify">
-6.	G. Balamurugan, Dr. K. B.  Jayarraman, **V. Arulalan**, “A Survey on Medical Image Watermarking Techniques”, IJCSN International Journal of Computer Science and Network, Volume 3, Issue 5, October 2014.</p>
-<p align="justify">
-7.	G. Balamurugan, Dr. K. B. Jayarraman, **V. Arulalan**, *“Multi-Modal Biometric Template Protection Using Image Processing”*, International Journal of Engineering Research & Technology (IJERT) Vol. 3 Issue 4, April – 2014.</p>
-<p align="justify">
-8.	**V. Arulalan**, G. Balamurugan, V. Premanand, "A Survey on Biometric Recognition Techniques”, International Journal of Advanced Research in Computer and Communication Engineering Vol. 3, Issue 2, February 2014.</p>
-<p align="justify">
-9.	G. Balamurugan, Sakthivel Punniakodi, **V. Arulalan**, C. Jayanavithraa, *"Multipath Forwarding in VANET for Message Dissemination"*, International Journal of Advanced Research in Computer and Communication Engineering Vol. 2, Issue 11, November 2013.</p>
+
+1.	**V. Arulalan**, G. Balamurugan, V. Premanand, *“Multi Modal Biometric Recognition System using Palm print and Inner-Knuckle Print”*, International Journal of Applied Engineering Research, Volume 10, Number 14 (2015) pp 34748-34751. ***[SCOPUS]***
+
+2.	**V. Arulalan**, V. Premanand, G. Balamurugan, *“An Overview on multi Modal Biometrics”*, International Journal of Applied Engineering Research, Volume 10, Number 17 (2015) pp 37534-37538. ***[SCOPUS]***
+
+3.	V. Premanand, A. Meiappane, **V. Arulalan**, *“Survey on Captcha and its Techniques for BOT Protection”*, International Journal of Computer Applications (0975 – 8887) Volume 109 – No. 5, January 2015.
+
+4.	**V. Arulalan**, N. Geetha, V. Premanand, *"Multimodal Biometric System using Iris and Inner-Knuckle Print"*, International Journal of Computer Applications (0975 – 8887)  Volume 106 – No.6, November 2014.
+
+5.	G. Balamurugan, **V. Arulalan**, V. Lokesh, *“Customer - Management Relationship Service using Android”*, International Journal of Computer Applications (0975 – 8887) Volume 105 – No. 10, November 2014.
+
+6.	G. Balamurugan, Dr. K. B.  Jayarraman, **V. Arulalan**, “A Survey on Medical Image Watermarking Techniques”, IJCSN International Journal of Computer Science and Network, Volume 3, Issue 5, October 2014.
+
+7.	G. Balamurugan, Dr. K. B. Jayarraman, **V. Arulalan**, *“Multi-Modal Biometric Template Protection Using Image Processing”*, International Journal of Engineering Research & Technology (IJERT) Vol. 3 Issue 4, April – 2014.
+
+8.	**V. Arulalan**, G. Balamurugan, V. Premanand, "A Survey on Biometric Recognition Techniques”, International Journal of Advanced Research in Computer and Communication Engineering Vol. 3, Issue 2, February 2014.
+
+9.	G. Balamurugan, Sakthivel Punniakodi, **V. Arulalan**, C. Jayanavithraa, *"Multipath Forwarding in VANET for Message Dissemination"*, International Journal of Advanced Research in Computer and Communication Engineering Vol. 2, Issue 11, November 2013.
 
 #### IN PEER REVIEWED INTERNATIONAL CONFERENCES
-<p align="justify">
-10.	**V. Arulalan**, Dhananjay Kumar, V. Premanand, *“An Item Based Collaborative Filtering For Similar Movie Search”*, International Conference on Computational Vision and Bio Inspired Computing-SPRINGER, 2018.</p>
-<p align="justify">
-11.	V. Premanand, Dhananjay Kumar, **V. Arulalan**, “An İnstance İdentification Using Randomized Ring Matching via Score Generation”, International Conference on Computational Vision and Bio Inspired Computing-SPRINGER, 2018. </p>
-<p align="justify">
-12.	G. Balamurugan, **V. Arulalan**, K. Suresh Joseph, *“Digital Image Protection Using Reversible Watermarking and Private Symmetric Key Encryption Technique”*, International Journal of Advanced Information Science and Technology (IJAIST), Vol.6, No.1, ISSN: 2319:2682, November 2017, 1st International Conference on Recent Trends in Engineering & Technology, ICRTET’17.</p>
-<p align="justify">
-13.	**V. Arulalan**, Dr. K. Suresh Joseph, V. Premanand, *“Securing Digital Data using 256-bit Multimodal Biometrics based Cryptographic Key”*, IEEE Sponsored World Conference on Futuristic Trends in Research and Innovation for Social Welfare (WCFTR’16), ISBN: 978-1-4673-9214-3, March 2016.</p>
-<p align="justify">
-14.	G. Balamurugan, Dr. K. Suresh Joseph, **V. Arulalan**, *“An Iris based Reversible Watermarking for the Security of Teleradiology”*, IEEE Sponsored World Conference on Futuristic Trends in Research and Innovation for Social Welfare (WCFTR’16), ISBN: 978-1-4673-9214-3, March 2016.</p>
-<p align="justify">
-15.	**V. Arulalan**, Dr. K. Suresh Joseph, *“Score Level Fusion of Iris and Finger Knuckle Print”*, IEEE 10th International Conference on Intelligent Systems and Control (ISCO’16), ISBN: 978-1-4673-7807-9, January 2016.</p>
-<p align="justify">
-16.	G. Balamurugan, Sakthivel Punniakodi, K. Rajeswari, **V. Arulalan**, *"Automatic Number Plate Recognition System Using Super-Resolution Technique”*, 2015 IEEE International Conference on Computing and Communications Technologies (ICCCT’15), ISBN:978-1-4799-7623-2/15/$31.00 ©2015 IEEE, February 2015.</p>
-<p align="justify">
-17.	G. Balamurugan, Dr. K. B. Jayarraman, **V. Arulalan**, *“An Iris Based Watermarking System for the Security Issues of Teleradiology”*, International Journal of Applied Engineering Research, Vol. 9 No. 20, 2014. ***[SCOPUS]***</p>
+
+10.	**V. Arulalan**, Dhananjay Kumar, V. Premanand, *“An Item Based Collaborative Filtering For Similar Movie Search”*, International Conference on Computational Vision and Bio Inspired Computing-SPRINGER, 2018.
+
+11.	V. Premanand, Dhananjay Kumar, **V. Arulalan**, “An İnstance İdentification Using Randomized Ring Matching via Score Generation”, International Conference on Computational Vision and Bio Inspired Computing-SPRINGER, 2018.
+
+12.	G. Balamurugan, **V. Arulalan**, K. Suresh Joseph, *“Digital Image Protection Using Reversible Watermarking and Private Symmetric Key Encryption Technique”*, International Journal of Advanced Information Science and Technology (IJAIST), Vol.6, No.1, ISSN: 2319:2682, November 2017, 1st International Conference on Recent Trends in Engineering & Technology, ICRTET’17.
+
+13.	**V. Arulalan**, Dr. K. Suresh Joseph, V. Premanand, *“Securing Digital Data using 256-bit Multimodal Biometrics based Cryptographic Key”*, IEEE Sponsored World Conference on Futuristic Trends in Research and Innovation for Social Welfare (WCFTR’16), ISBN: 978-1-4673-9214-3, March 2016.
+
+14.	G. Balamurugan, Dr. K. Suresh Joseph, **V. Arulalan**, *“An Iris based Reversible Watermarking for the Security of Teleradiology”*, IEEE Sponsored World Conference on Futuristic Trends in Research and Innovation for Social Welfare (WCFTR’16), ISBN: 978-1-4673-9214-3, March 2016.
+
+15.	**V. Arulalan**, Dr. K. Suresh Joseph, *“Score Level Fusion of Iris and Finger Knuckle Print”*, IEEE 10th International Conference on Intelligent Systems and Control (ISCO’16), ISBN: 978-1-4673-7807-9, January 2016.
+
+16.	G. Balamurugan, Sakthivel Punniakodi, K. Rajeswari, **V. Arulalan**, *"Automatic Number Plate Recognition System Using Super-Resolution Technique”*, 2015 IEEE International Conference on Computing and Communications Technologies (ICCCT’15), ISBN:978-1-4799-7623-2/15/$31.00 ©2015 IEEE, February 2015.
+
+17.	G. Balamurugan, Dr. K. B. Jayarraman, **V. Arulalan**, *“An Iris Based Watermarking System for the Security Issues of Teleradiology”*, International Journal of Applied Engineering Research, Vol. 9 No. 20, 2014. ***[SCOPUS]***
 
 #### IN PEER REVIEWED NATIONAL CONFERENCES
-<p align="justify">
-18.	**V. Arulalan**, DR. K. Suresh Joseph and G. Balamurugan, *“Safety Driver: Reducing Driver Distraction Using Integrated Smart Sensors”*, Advances in Natural and Applied Sciences, Volume 11, Number 12, October, 2017, Pages: 63-69, ICMR sponsored National Conference on “ICT Solutions for Challenges and Issues in e-Health” (NCICTEH'17). ***[SCOPUS]***</p>
-<p align="justify">
+
+18.	**V. Arulalan**, DR. K. Suresh Joseph and G. Balamurugan, *“Safety Driver: Reducing Driver Distraction Using Integrated Smart Sensors”*, Advances in Natural and Applied Sciences, Volume 11, Number 12, October, 2017, Pages: 63-69, ICMR sponsored National Conference on “ICT Solutions for Challenges and Issues in e-Health” (NCICTEH'17). ***[SCOPUS]***
+
 19.	G. Balamurugan, Dr. K. B. Jayarraman, **V. Arulalan**, V. Lokesh, *“Multimodal Biometric Key Generation for Cryptographic Security using FACE and IRIS”*, Advances in Natural and Applied Sciences, 9(6) Special 2015, Pages: 525-530, DSTE Sponsored National Conference on Intelligent Computing, January 2015 ***[SCOPUS]***
-</p>
+
 
 ### WORKSHOPS ATTENDED
-<p align="justify">
-1.	Attended five days AICTE sponsored ATAL FDP on ***“Artificial Intelligence”*** held during 11-15 November, 2019 in the Department of Information Technology, MIT Campus, Anna University, Chennai.</p>
-<p align="justify">
-2.	Attended one day workshop on ***“Intellectual Property Rights-2019 (IPR-2019)”*** held on 27th September 2019 at AC Tech Campus, Anna University, Chennai.</p>
-<p align="justify">
-3.	Attended two days workshop on ***“Hands on Training on Artificial Neural Network Using MATLAB”*** held during 3rd August and 4th August at School of Electrical Engineering, Vellore Institute of Technology, Chennai.</p>
-<p align="justify">
-4.	Attended one day workshop on ***"Global Azure Bootcamp"*** held on 27 April 2019 at Tech Mahindra in association with MICROSOFT INDIA.</p>
-<p align="justify">
-5.	Attended two days IET Chennai Local Network sponsored Workshop on ***“Machine Learning in Computer Vision using Python"*** held during 27 and 28 March 2019 at SRM Institute of Science and Technology.</p>
-<p align="justify">
-6.	Attended one-day workshop on ***"Machine Learning od Industry 4.0"*** held on 2 March 2019 at department of Manufacturing Engineering, CEG Campus, Anna University.</p>
-<p align="justify">
-7.	Attended one day workshop on ***"Transforming India with Deep Learning"*** held on 9 October 2018, organized by NVIDIA Developer Connect, NVIDIA.</p>
-<p align="justify">
-8.	Attended three days Workshop on ***"Image Processing, Computer Vision and Machine Learning"*** held during 3rd – 5th MAY 2018 organized by department of Electronics Engineering at Madras Institute of Technology, Anna University. </p>
-<p align="justify">
-9.	Attended one day workshop on ***"How to Do a Good Ph.D."*** held on 3rd March organized by Centre for Aerospace Research at Madras Institute of Technology, Anna University.</p>
-<p align="justify">
-10.	Attended one day workshop on ***"URKUND (Plagiarism Detection Tool)"*** held on 28th October 2015 at Pondicherry University, Organized by Ananda Rangapillai Library, Pondicherry University in Collaboration with INFLIBNET Centre, Gujarat.</p>
-<p align="justify">
-11.	Attended two days CSI sponsored Workshop on ***"Image processing using MATLAB"*** held during 23rd and 24th February 2015 at Manakula Vinayagar Institute of Technology, Puducherry.</p>
-<p align="justify">
-12.	Attended five days national workshop on ***"Advanced Trends in Optimization Methods & their Applications (ATOMA-2014)"*** held during 8th September to 12th September 2014 at Pondicherry University, Puducherry.</p>
-<p align="justify">
-13.	Attended national workshop on ***"Image Processing Techniques using MATLAB"*** held during 5th and 6th September 2014 at Kongu Engineering College, Erode.</p>
-<p align="justify">
-14.	Attended five days national workshop on ***"Research Trends in Digital Image Processing NWRTDIP 2014"*** held during 18th August to 22nd August 2014 at Pondicherry University, Puducherry.</p>
-<p align="justify">
-15.	Attended two days workshop on ***"Big Data & Open Cloud"*** held during 3rd  April and 4th April 2014 at Pondicherry University, Puducherry.</p>
-<p align="justify">
-16.	Attended one day national level workshop on ***"Mobile Applications Development Using Android: A Practical Approach (WMADA 2014)"*** held during 15th March 2014 at Pondicherry University, Puducherry.</p>
-<p align="justify">
-17.	Attended *"Author Workshop"* jointly organized by Springer and Ananda Rangapillai Library held during 6th February 2014 at Pondicherry University, Puducherry.</p>
-<p align="justify">
+
+1.	Attended five days AICTE sponsored ATAL FDP on ***“Artificial Intelligence”*** held during 11-15 November, 2019 in the Department of Information Technology, MIT Campus, Anna University, Chennai.
+
+2.	Attended one day workshop on ***“Intellectual Property Rights-2019 (IPR-2019)”*** held on 27th September 2019 at AC Tech Campus, Anna University, Chennai.
+
+3.	Attended two days workshop on ***“Hands on Training on Artificial Neural Network Using MATLAB”*** held during 3rd August and 4th August at School of Electrical Engineering, Vellore Institute of Technology, Chennai.
+
+4.	Attended one day workshop on ***"Global Azure Bootcamp"*** held on 27 April 2019 at Tech Mahindra in association with MICROSOFT INDIA.
+
+5.	Attended two days IET Chennai Local Network sponsored Workshop on ***“Machine Learning in Computer Vision using Python"*** held during 27 and 28 March 2019 at SRM Institute of Science and Technology.
+
+6.	Attended one-day workshop on ***"Machine Learning od Industry 4.0"*** held on 2 March 2019 at department of Manufacturing Engineering, CEG Campus, Anna University.
+
+7.	Attended one day workshop on ***"Transforming India with Deep Learning"*** held on 9 October 2018, organized by NVIDIA Developer Connect, NVIDIA.
+
+8.	Attended three days Workshop on ***"Image Processing, Computer Vision and Machine Learning"*** held during 3rd – 5th MAY 2018 organized by department of Electronics Engineering at Madras Institute of Technology, Anna University.
+
+9.	Attended one day workshop on ***"How to Do a Good Ph.D."*** held on 3rd March organized by Centre for Aerospace Research at Madras Institute of Technology, Anna University.
+
+10.	Attended one day workshop on ***"URKUND (Plagiarism Detection Tool)"*** held on 28th October 2015 at Pondicherry University, Organized by Ananda Rangapillai Library, Pondicherry University in Collaboration with INFLIBNET Centre, Gujarat.
+
+11.	Attended two days CSI sponsored Workshop on ***"Image processing using MATLAB"*** held during 23rd and 24th February 2015 at Manakula Vinayagar Institute of Technology, Puducherry.
+
+12.	Attended five days national workshop on ***"Advanced Trends in Optimization Methods & their Applications (ATOMA-2014)"*** held during 8th September to 12th September 2014 at Pondicherry University, Puducherry.
+
+13.	Attended national workshop on ***"Image Processing Techniques using MATLAB"*** held during 5th and 6th September 2014 at Kongu Engineering College, Erode.
+
+14.	Attended five days national workshop on ***"Research Trends in Digital Image Processing NWRTDIP 2014"*** held during 18th August to 22nd August 2014 at Pondicherry University, Puducherry.
+
+15.	Attended two days workshop on ***"Big Data & Open Cloud"*** held during 3rd  April and 4th April 2014 at Pondicherry University, Puducherry.
+
+16.	Attended one day national level workshop on ***"Mobile Applications Development Using Android: A Practical Approach (WMADA 2014)"*** held during 15th March 2014 at Pondicherry University, Puducherry.
+
+17.	Attended *"Author Workshop"* jointly organized by Springer and Ananda Rangapillai Library held during 6th February 2014 at Pondicherry University, Puducherry.
+
 18.	Attended AICTE Sponsored two days national seminar on ***"Impact of Biometric Security Using Image Processing"*** held during 12th November and 13th November 2013 at Manakula Vinayagar Institute of Technology, Puducherry.
-</p>
+
 ### PROFESSIONAL SOCIETY MEMBERSHIP
 
 * Professional Member in Association for Computing Machinery (ACM) MEMBERSHIP NO: **9451841**.
