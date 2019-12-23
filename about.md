@@ -64,7 +64,7 @@ Christ College of Engineering and Technology, Puducherry.<br>
 [*ORCID ID: https://orcid.org/0000-0001-9312-2143*](https://orcid.org/0000-0001-9312-2143)
 
 #### IN PEER REVIEWED INTERNATIONAL JOURNALS
-<p align="justify">
+<p align="justify"> justify check
 1.	**V. Arulalan**, G. Balamurugan, V. Premanand, *“Multi Modal Biometric Recognition System using Palm print and Inner-Knuckle Print”*, International Journal of Applied Engineering Research, Volume 10, Number 14 (2015) pp 34748-34751. ***[SCOPUS]***
 
 2.	**V. Arulalan**, V. Premanand, G. Balamurugan, *“An Overview on multi Modal Biometrics”*, International Journal of Applied Engineering Research, Volume 10, Number 17 (2015) pp 37534-37538. ***[SCOPUS]***
