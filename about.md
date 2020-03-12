@@ -46,7 +46,7 @@ Christ College of Engineering and Technology, Puducherry.<br>
 ### SOFTWARE SKILL SET
 
 * Programming Languages		: C, C++, Python
-* Libraries				    : OpenCV, TensorFlow, Pandas, NumPy, SciPy, Mathplotlib, PyTorch
+* Libraries				    : OpenCV, Pandas, NumPy, SciPy, Mathplotlib,
 * Software Skills			: MATLAB, Apache Hadoop, Docker
 * Web Development		  	: HTML, CSS, MySQL
 
