@@ -36,22 +36,22 @@ Christ College of Engineering and Technology, Puducherry.<br>
 ### TRAINING & CERTIFICATION
 
 * Completed an online course ***“Machine Learning for Business Professionals”***  authorized by Google Cloud and offered through Coursera. <br>
-*Grade Achieved: 98.33%. Credential ID: 3M54647LX8K4| [See Credential](https://www.coursera.org/account/accomplishments/records/3M54647LX8K4)*
+*Grade Achieved: 98.33%. Credential ID: 3M54647LX8K4 | [See Credential](https://www.coursera.org/account/accomplishments/records/3M54647LX8K4)*
 
 * Completed an online course ***“Computer Vision Basics”***  authorized by University at Buffalo, The State University of New York and offered through Coursera. <br>
 *Grade Achieved: 100%. Credential ID: BHFK6VH6JFRL | [See Credential](https://www.coursera.org/account/accomplishments/records/BHFK6VH6JFRL )*
 
 * Completed an online course ***“Getting Started with AWS Machine Learning”***  authorized by Amazon Web Services and offered through Coursera. <br>
-*Grade Achieved: 100%. Credential ID: KMFV486GU8JM| [See Credential](https://www.coursera.org/account/accomplishments/records/KMFV486GU8JM)*
+*Grade Achieved: 100%. Credential ID: KMFV486GU8JM | [See Credential](https://www.coursera.org/account/accomplishments/records/KMFV486GU8JM)*
 
 * Completed an online course ***“Building Conversational Experiences with Dialogflow”***  authorized by Google Cloud and offered through Coursera. <br>
 *Grade Achieved: 100%. Credential ID: G35F69EK75JF | [See Credential](https://www.coursera.org/account/accomplishments/records/G35F69EK75JF)*
 
 * Completed an online course ***“Introduction to Cloud Identity”***  authorized by Google Cloud and offered through Coursera. <br> 
-*Grade Achieved: 88.66%. Credential ID: HEAUEUVRFJRL| [See Credential](https://www.coursera.org/account/accomplishments/records/HEAUEUVRFJRL)*
+*Grade Achieved: 88.66%. Credential ID: HEAUEUVRFJRL | [See Credential](https://www.coursera.org/account/accomplishments/records/HEAUEUVRFJRL)*
 
 * Completed 8 Weeks NPTEL course ***“Introduction to Modern Application Development”*** with a consolidated score of 70% organized by IIT-Madras in partnership with NASSCOM. <br>
-*Roll No: NPTEL17CS0626640346FN [To validate and check scores: http://nptel.ac.in/noc]*
+*Roll No: NPTEL17CS0626640346FN | [To validate and check score](http://nptel.ac.in/noc)*
 
 * Completed ***"Python Programming For Absolute Beginners"*** @ Udemy<br>
 *Certificate No.: UC-1OJ0G87C | [Certificate url](https://www.ude.my/UC-1OJ0G87C)*
