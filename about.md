@@ -3,7 +3,7 @@ layout: page
 title: ABOUT ME
 permalink: /about/
 ---
-Currently a ***Research Fellow*** at [Department of Information Technology](https://http://it.mitindia.edu/), [Anna University](https://www.annauniv.edu/).
+I am a full-time ***Research Fellow*** in [Department of Information Technology](https://http://it.mitindia.edu/) at [Anna University](https://www.annauniv.edu/) [MIT Campus](https://mitindia.edu/). My research domain is under Video Processing and Analytics also completed Machine Learning Techniques and Data Science & Analytics as a course work with Grade Point Average: 9. As a Researcher, I like to work in a world-class Research Labs or Organisation on challenging and interesting problems with highly competent and visionary researchers. The work should be exciting and motivate me to come up with new ideas that will influence and make a positive impact on the organization.
 
 
 ### EXPERIENCE
