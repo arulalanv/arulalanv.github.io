@@ -123,9 +123,9 @@ Christ College of Engineering and Technology, Puducherry.<br>
 19.	G. Balamurugan, Dr. K. B. Jayarraman, **V. Arulalan**, V. Lokesh, *“Multimodal Biometric Key Generation for Cryptographic Security using FACE and IRIS”*, Advances in Natural and Applied Sciences, 9(6) Special 2015, Pages: 525-530, DSTE Sponsored National Conference on Intelligent Computing, January 2015 ***[SCOPUS]***
 
 
-### WORKSHOPS ATTENDED
+### WORKSHOPS & FDP's ATTENDED
 
-1. Attended two days Research Oriented Faculty Development Training Programme (UGC-XII Plan) on ***Applied Machine Learning”*** held during 09-10 March, 2020 in the Department of Instrumentation Engineering, MIT Campus, Anna University, Chennai.
+1. Attended two days Research Oriented Faculty Development Training Programme (UGC-XII Plan) on ***"Applied Machine Learning”*** held during 09-10 March, 2020 in the Department of Instrumentation Engineering, MIT Campus, Anna University, Chennai.
 
 2.	Attended five days AICTE sponsored ATAL FDP on ***“Artificial Intelligence”*** held during 11-15 November, 2019 in the Department of Information Technology, MIT Campus, Anna University, Chennai.
 
