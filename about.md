@@ -35,7 +35,7 @@ Christ College of Engineering and Technology, Puducherry.<br>
 
 ### TRAINING & CERTIFICATION
 
-* Completed an online non-credit course *** “Machine Learning for Business Professionals” ***  authorized by Google Cloud and offered through Coursera. <br>
+* Completed an online course ***“Machine Learning for Business Professionals”***  authorized by Google Cloud and offered through Coursera. <br>
 *Grade Achieved: 98.33%. Credential ID: 3M54647LX8K4| [See Credential](https://www.coursera.org/account/accomplishments/records/3M54647LX8K4)*
 
 * Completed an online course ***“Computer Vision Basics”***  authorized by University at Buffalo, The State University of New York and offered through Coursera. <br>
