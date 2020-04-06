@@ -35,11 +35,21 @@ Christ College of Engineering and Technology, Puducherry.<br>
 
 ### TRAINING & CERTIFICATION
 
-* Completed 8 Weeks NPTEL course ***“Introduction to Modern Application Development”*** with a consolidated score of 70% organized by IIT-Madras in partnership with NASSCOM. <br>
- *Roll No: NPTEL17CS0626640346FN [To validate and check scores: http://nptel.ac.in/noc]*
 
- * Completed ***"Python Programming For Absolute Beginners"*** @ Udemy<br>
- *Certificate No.: UC-1OJ0G87C | [Certificate url](https://www.ude.my/UC-1OJ0G87C)*
+
+* Completed an online course *** “Building Conversational Experiences with Dialogflow” ***  authorized by Google Cloud and offered through Coursera. <br>
+*Grade Achieved: 100%. Credential ID: G35F69EK75JF | [See Credential](https://www.coursera.org/account/accomplishments/records/G35F69EK75JF)*
+
+
+
+* Completed an online course *** “Introduction to Cloud Identity” ***  authorized by Google Cloud and offered through Coursera. <br> 
+*Grade Achieved: 88.66%. Credential ID: HEAUEUVRFJRL| [See Credential](https://www.coursera.org/account/accomplishments/records/HEAUEUVRFJRL)*
+
+* Completed 8 Weeks NPTEL course ***“Introduction to Modern Application Development”*** with a consolidated score of 70% organized by IIT-Madras in partnership with NASSCOM. <br>
+*Roll No: NPTEL17CS0626640346FN [To validate and check scores: http://nptel.ac.in/noc]*
+
+* Completed ***"Python Programming For Absolute Beginners"*** @ Udemy<br>
+*Certificate No.: UC-1OJ0G87C | [Certificate url](https://www.ude.my/UC-1OJ0G87C)*
 
 
 
