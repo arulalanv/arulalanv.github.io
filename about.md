@@ -35,6 +35,9 @@ Christ College of Engineering and Technology, Puducherry.<br>
 
 ### TRAINING & CERTIFICATION
 
+* Completed an online course ***“Data Engineering, Big Data, and Machine Learning on GCP Specialization”***  authorized by Google Cloud and offered through Coursera. <br>
+*Grade Achieved: 98.33%. Credential ID: 8ZGA8DVL3B5T | [See Credential](https://www.coursera.org/account/accomplishments/specialization/8ZGA8DVL3B5T)*
+
 * Completed an online course ***“Machine Learning for Business Professionals”***  authorized by Google Cloud and offered through Coursera. <br>
 *Grade Achieved: 98.33%. Credential ID: 3M54647LX8K4 | [See Credential](https://www.coursera.org/account/accomplishments/records/3M54647LX8K4)*
 
@@ -47,8 +50,14 @@ Christ College of Engineering and Technology, Puducherry.<br>
 * Completed an online course ***“Building Conversational Experiences with Dialogflow”***  authorized by Google Cloud and offered through Coursera. <br>
 *Grade Achieved: 100%. Credential ID: G35F69EK75JF | [See Credential](https://www.coursera.org/account/accomplishments/records/G35F69EK75JF)*
 
+* Completed an online course ***“Industrial IoT on Google Cloud Platform”***  authorized by Google Cloud and offered through Coursera. <br> 
+*Grade Achieved: 100%. Credential ID: ABS3JMWZJ5KL | [See Credential](https://www.coursera.org/account/accomplishments/records/ABS3JMWZJ5KL)*
+
 * Completed an online course ***“Introduction to Cloud Identity”***  authorized by Google Cloud and offered through Coursera. <br> 
 *Grade Achieved: 88.66%. Credential ID: HEAUEUVRFJRL | [See Credential](https://www.coursera.org/account/accomplishments/records/HEAUEUVRFJRL)*
+
+* Completed an online course ***“Cloud Computing Basics (Cloud 101)”***  authorized by LearnQuest and offered through Coursera. <br> 
+*Grade Achieved: 91%. Credential ID: F28MEDZQS5HZ | [See Credential](https://www.coursera.org/account/accomplishments/records/F28MEDZQS5HZ)*
 
 * Completed 8 Weeks NPTEL course ***“Introduction to Modern Application Development”*** with a consolidated score of 70% organized by IIT-Madras in partnership with NASSCOM. <br>
 *Roll No: NPTEL17CS0626640346FN | [To validate and check score](http://nptel.ac.in/noc)*
@@ -62,7 +71,7 @@ Christ College of Engineering and Technology, Puducherry.<br>
 
 * Programming Languages		: C, C++, Python
 * Libraries				    : OpenCV, Pandas, NumPy, SciPy, Mathplotlib,
-* Software Skills			: MATLAB, Apache Hadoop, Docker
+* Software Skills			: MATLAB, Apache Hadoop, Docker, Git
 * Web Development		  	: HTML, CSS, MySQL
 
 
