@@ -3,10 +3,16 @@ layout: page
 title: ABOUT ME
 permalink: /about/
 ---
-I am a full-time ***Research Fellow*** in [Department of Information Technology](https://http://it.mitindia.edu/) at [Anna University](https://www.annauniv.edu/) [MIT Campus](https://mitindia.edu/). My research domain is under Video Processing and Analytics also completed Machine Learning Techniques and Data Science & Analytics as a course work with Grade Point Average: 9. As a Researcher, I like to work in a world-class Research Labs or Organisation on challenging and interesting problems with highly competent and visionary researchers. The work should be exciting and motivate me to come up with new ideas that will influence and make a positive impact on the organization.
+I am a ***Teaching Fellow*** in [Department of Information Technology](http://www.it.mitindia.edu/faculty/ITF31) at [Anna University](https://www.annauniv.edu/) [MIT Campus](https://mitindia.edu/). My research domain is under Video Processing and Analytics also completed Machine Learning Techniques and Data Science & Analytics as a course work with Grade Point Average: 9. As a Researcher, I like to work in a world-class Research Labs or Organisation on challenging and interesting problems with highly competent and visionary researchers. The work should be exciting and motivate me to come up with new ideas that will influence and make a positive impact on the organization.
 
 
 ### EXPERIENCE
+
+**Teaching Fellow** <br>
+*11.2020 -- Present* <br>
+Department of Information Technology<br>
+Anna University, Madras Institute of Technology Campus<br>
+Chennai.
 
 **Full-Time Research Fellow** <br>
 *01.2018 -- Present* <br>
@@ -35,8 +41,8 @@ Christ College of Engineering and Technology, Puducherry.<br>
 
 ### TRAINING & CERTIFICATION
 
-* Completed an online course ***“Data Engineering, Big Data, and Machine Learning on GCP Specialization”***  authorized by Google Cloud and offered through Coursera. <br>
-*Grade Achieved: 98.33%. Credential ID: 8ZGA8DVL3B5T | [See Credential](https://www.coursera.org/account/accomplishments/specialization/8ZGA8DVL3B5T)*
+* Completed an online course ***“Deep Learning Specializationn”***  authorized by Deeplearning.ai and offered through Coursera. <br>
+*Grade Achieved: 99.02%. Credential ID: 3QBY3JTQHUSX | [See Credential](https://www.coursera.org/account/accomplishments/specialization/3QBY3JTQHUSX)*
 
 * Completed an online course ***“Machine Learning for Business Professionals”***  authorized by Google Cloud and offered through Coursera. <br>
 *Grade Achieved: 98.33%. Credential ID: 3M54647LX8K4 | [See Credential](https://www.coursera.org/account/accomplishments/records/3M54647LX8K4)*
