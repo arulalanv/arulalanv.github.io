@@ -47,6 +47,9 @@ Christ College of Engineering and Technology, Puducherry.<br>
 * Completed an online course ***“Machine Learning for Business Professionals”***  authorized by Google Cloud and offered through Coursera. <br>
 *Grade Achieved: 98.33%. Credential ID: 3M54647LX8K4 | [See Credential](https://www.coursera.org/account/accomplishments/records/3M54647LX8K4)*
 
+* Completed an online course ***“GObject Detection with Amazon Sagemaker”***  authorized by Amazon Web Services and offered through Coursera. <br>
+*Grade Achieved: 80%. Credential ID: TE2LDPMDFUVZ | [See Credential](https://www.coursera.org/account/accomplishments/records/TE2LDPMDFUVZ)*
+
 * Completed an online course ***“Computer Vision Basics”***  authorized by University at Buffalo, The State University of New York and offered through Coursera. <br>
 *Grade Achieved: 100%. Credential ID: BHFK6VH6JFRL | [See Credential](https://www.coursera.org/account/accomplishments/records/BHFK6VH6JFRL )*
 
