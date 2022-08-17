@@ -10,11 +10,11 @@ I am a ***Teaching Fellow*** in [Department of Information Technology](http://ww
 ### Vidwan-ID:**[268879](https://vidwan.inflibnet.ac.in/profile/268879)**
 <br>
 ### Academic Identity
-![image](https://user-images.githubusercontent.com/36508306/185135387-81262fe9-793e-4426-870e-857a986d1c8a.png)
+![image](https://user-images.githubusercontent.com/36508306/185141704-7e2e9738-e5ec-4214-af72-fd11caaac542.png)
 ![image](https://user-images.githubusercontent.com/36508306/185136215-41559dc1-5e19-4de4-b760-ce0b24ef7546.png)
 ![image](https://user-images.githubusercontent.com/36508306/185137062-561e5c13-ddd5-4d47-90eb-92e07e5540f4.png)
 ![image](https://user-images.githubusercontent.com/36508306/185137572-d9e276e8-e83e-4152-a49a-7038a7778b4b.png)
-### Scopus Id:**[56809436800]** (http://www.scopus.com/authid/detail.url?authorId=56809436800) ### Orcid Id:**[0000-0001-9312-2143]** (http://www.orcid.org/0000-0001-9312-2143) ### Researcher Id:**[AHB-9015-2022]** (http://www.researcherid.com/rid/AHB-9015-2022) ### Google Scholar Id:**[o-D6QfUAAAAJ]** (http://scholar.google.co.in/citations?user=o-D6QfUAAAAJ)<br>
+### Scopus Id:**[56809436800](http://www.scopus.com/authid/detail.url?authorId=56809436800)** ### Orcid Id:**[0000-0001-9312-2143](http://www.orcid.org/0000-0001-9312-2143)** ### Researcher Id:**[AHB-9015-2022](http://www.researcherid.com/rid/AHB-9015-2022)**  ### Google Scholar Id:**[o-D6QfUAAAAJ](http://scholar.google.co.in/citations?user=o-D6QfUAAAAJ)** <br>
 
 
 ### EXPERIENCE
