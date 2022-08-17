@@ -43,6 +43,7 @@ Christ College of Engineering and Technology, Puducherry.<br>
 * Awarded **Mentor Certificate** for the course ***“Introduction to Modern Application Development”*** from NPTEL organized by IIT-Madras in partnership with NASSCOM.
 
 ### TRAINING & CERTIFICATION
+![image](https://user-images.githubusercontent.com/36508306/185133002-33790552-96a8-4f1a-b993-c79e2c256b3d.png)
 
 * Completed an online course ***“Deep Learning Specializationn”***  authorized by Deeplearning.ai and offered through Coursera. <br>
 *Grade Achieved: 99.02%. Credential ID: 3QBY3JTQHUSX | [See Credential](https://www.coursera.org/account/accomplishments/specialization/3QBY3JTQHUSX)*
@@ -97,7 +98,7 @@ Christ College of Engineering and Technology, Puducherry.<br>
 
 ### PUBLICATIONS
 
-[*ORCID ID: https://orcid.org/0000-0001-9312-2143*](https://orcid.org/0000-0001-9312-2143)
+![image](https://orcid.org/assets/vectors/orcid.logo.svg) [*ORCID ID: https://orcid.org/0000-0001-9312-2143*](https://orcid.org/0000-0001-9312-2143)
 
 #### IN PEER REVIEWED INTERNATIONAL JOURNALS
 
