@@ -9,6 +9,17 @@ I am a ***Teaching Fellow*** in [Department of Information Technology](http://ww
 ![image](https://user-images.githubusercontent.com/36508306/185130931-f9e33f0c-3674-4479-87e9-cc56a3e9e724.png)
 ### Vidwan-ID:**[268879](https://vidwan.inflibnet.ac.in/profile/268879)**
 <br>
+### Academic Identity
+![image](https://user-images.githubusercontent.com/36508306/185135387-81262fe9-793e-4426-870e-857a986d1c8a.png)
+### Orcid Id:**[0000-0001-9312-2143](http://www.orcid.org/0000-0001-9312-2143)<br>
+![image](https://user-images.githubusercontent.com/36508306/185136215-41559dc1-5e19-4de4-b760-ce0b24ef7546.png)
+### Scopus Id:**[56809436800](http://www.scopus.com/authid/detail.url?authorId=56809436800)<br>
+![image](https://user-images.githubusercontent.com/36508306/185137062-561e5c13-ddd5-4d47-90eb-92e07e5540f4.png)
+### Researcher Id:**[AHB-9015-2022](http://www.researcherid.com/rid/AHB-9015-2022)<br>
+![image](https://user-images.githubusercontent.com/36508306/185137572-d9e276e8-e83e-4152-a49a-7038a7778b4b.png)
+### Google Scholar Id:**[o-D6QfUAAAAJ](http://scholar.google.co.in/citations?user=o-D6QfUAAAAJ)<br>
+
+
 ### EXPERIENCE
 
 **Teaching Fellow** <br>
@@ -43,7 +54,8 @@ Christ College of Engineering and Technology, Puducherry.<br>
 * Awarded **Mentor Certificate** for the course ***“Introduction to Modern Application Development”*** from NPTEL organized by IIT-Madras in partnership with NASSCOM.
 
 ### TRAINING & CERTIFICATION
-![image](https://user-images.githubusercontent.com/36508306/185133002-33790552-96a8-4f1a-b993-c79e2c256b3d.png)
+![image](https://user-images.githubusercontent.com/36508306/185133002-33790552-96a8-4f1a-b993-c79e2c256b3d.png) ![image](https://user-images.githubusercontent.com/36508306/185134817-7b05f2ab-eac3-440f-98ee-85410154e339.png)
+
 
 * Completed an online course ***“Deep Learning Specializationn”***  authorized by Deeplearning.ai and offered through Coursera. <br>
 *Grade Achieved: 99.02%. Credential ID: 3QBY3JTQHUSX | [See Credential](https://www.coursera.org/account/accomplishments/specialization/3QBY3JTQHUSX)*
