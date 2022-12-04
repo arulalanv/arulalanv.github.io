@@ -85,7 +85,7 @@ Christ College of Engineering and Technology, Puducherry.<br>
 *Grade Achieved: 91%. Credential ID: F28MEDZQS5HZ | [See Credential](https://www.coursera.org/account/accomplishments/records/F28MEDZQS5HZ)*
 
 * Completed 8 Weeks NPTEL course ***“Introduction to Modern Application Development”*** with a consolidated score of 70% organized by IIT-Madras in partnership with NASSCOM. <br>
-*Roll No: NPTEL17CS0626640346FN | [To validate and check score](http://nptel.ac.in/noc)*
+*Roll No: NPTEL17CS0626640346FN | [To validate and check score](https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL17CS0626640346FN)*
 
 * Completed ***"Python Programming For Absolute Beginners"*** @ Udemy<br>
 *Certificate No.: UC-1OJ0G87C | [Certificate url](https://www.ude.my/UC-1OJ0G87C)*
