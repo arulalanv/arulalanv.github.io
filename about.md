@@ -3,7 +3,7 @@ layout: page
 title: ABOUT ME
 permalink: /about/
 ---
-I am a ***Teaching Fellow*** in [Department of Information Technology](http://www.it.mitindia.edu/faculty/ITF31) at [Anna University](https://www.annauniv.edu/) [MIT Campus](https://mitindia.edu/). My research domain is under Video Processing and Analytics also completed Machine Learning Techniques and Data Science & Analytics as a course work with Grade Point Average: 9. As a Researcher, I like to work in a world-class Research Labs or Organisation on challenging and interesting problems with highly competent and visionary researchers. The work should be exciting and motivate me to come up with new ideas that will influence and make a positive impact on the organization.
+I am an ***Assistant Professor*** in [Department of Computing Technologies](https://www.srmist.edu.in/faculty/mr-arulalan-v/) at [SRM InStitute of Science and TEchnology, Kattankulathur Campus](https://www.srmist.edu.in/). My research domain is under Video Processing and Analytics also completed Machine Learning Techniques and Data Science & Analytics as a course work with Grade Point Average: 9. As a Researcher, I like to work in a world-class Research Labs or Organisation on challenging and interesting problems with highly competent and visionary researchers. The work should be exciting and motivate me to come up with new ideas that will influence and make a positive impact on the organization.
 <br>
 <br>
 ![image](https://user-images.githubusercontent.com/36508306/185130931-f9e33f0c-3674-4479-87e9-cc56a3e9e724.png)
@@ -22,8 +22,14 @@ I am a ***Teaching Fellow*** in [Department of Information Technology](http://ww
 
 ### EXPERIENCE
 
+**Assistant Professor** <br>
+*02.2023 -- Present* <br>
+Department of Computing Technologies<br>
+SRM Institute Of Science And Technology, KTR Campus<br>
+Chengalpattu.
+
 **Teaching Fellow** <br>
-*11.2020 -- Present* <br>
+*11.2020 -- 02.2023* <br>
 Department of Information Technology<br>
 Anna University, Madras Institute of Technology Campus<br>
 Chennai.
@@ -44,9 +50,9 @@ Christ College of Engineering and Technology, Puducherry.<br>
 <img src="/assets/clarifai.png" width="250">                    <img src="/assets/qualcomm.jpg" width="250">                     <img src="/assets/nrl.png" width="80">                     <img src="/assets/bu.gif" width="175"> -->
 ### EDUCATION QUALIFICATION
 
-* **Ph.D** - *Faculty of Information and Communication Engineering* (ANNA UNIVERSITY) ***Pursuing***
-* **M.TECH** - *Computer science and Engineering* (PONDICHERRY UNIVERSITY) 
-* **B.TECH** - *Computer science and Engineering* (PONDICHERRY UNIVERSITY) 
+* **Ph.D** - *Faculty of Information and Communication Engineering* (ANNA UNIVERSITY) ***2023***
+* **M.TECH** - *Computer science and Engineering* (PONDICHERRY UNIVERSITY)  ***2015***
+* **B.TECH** - *Computer science and Engineering* (PONDICHERRY UNIVERSITY)  ***2013***
 
 ### SCHOLASTIC ACHIEVEMENTS
 
@@ -114,7 +120,7 @@ Christ College of Engineering and Technology, Puducherry.<br>
 
 #### IN PEER REVIEWED INTERNATIONAL JOURNALS
 
-1.	**V. Arulalan** and Dhananjay Kumar, 2023 "Efficient Object Detection and Classification Approach Using HTYOLOV4 and M2RFO-CNN," Journal of Computer Systems Science and Engineering, vol. 44, no.2, pp. 1703–1717. ISSN: 0267-6192 doi:10.32604/csse.2023.026744 Indexed by SCIE. Impact Factor: 4.397.
+1.	**V. Arulalan** and Dhananjay Kumar, 2023 "Efficient Object Detection and Classification Approach Using HTYOLOV4 and M2RFO-CNN," Journal of Computer Systems Science and Engineering, vol. 44, no.2, pp. 1703–1717. ISSN: 0267-6192 doi:10.32604/csse.2023.026744 Indexed by SCIE. Impact Factor: 4.397. ***[SCIE]***
 
 2.	**V. Arulalan**, G. Balamurugan, V. Premanand, *“Multi Modal Biometric Recognition System using Palm print and Inner-Knuckle Print”*, International Journal of Applied Engineering Research, Volume 10, Number 14 (2015) pp 34748-34751. ***[SCOPUS]***
 
@@ -222,13 +228,13 @@ Anna University, Chennai - 600044.<br>
 Email: [dhananjay@annauniv.edu](mailto:dhananjay@annauniv.edu)<br>
 
 
-**Dr. K. Suresh Joseph** *M.E., Ph.D.,*<br>
+<!-- **Dr. K. Suresh Joseph** *M.E., Ph.D.,*<br>
 Associate Professor,<br>
 Department of Computer Science,<br>
 School of Engineering and Technology,<br>
 Pondicherry University,<br>
 Puducherry - 605014.<br>
-Email: [ksjoseph.csc@gmail.com](mailto:ksjoseph.csc@gmail.com)
+Email: [ksjoseph.csc@gmail.com](mailto:ksjoseph.csc@gmail.com)  -->
 
 
 
