@@ -3,7 +3,7 @@ layout: page
 title: ABOUT ME
 permalink: /about/
 ---
-I am an ***Assistant Professor*** in [Department of Computing Technologies](https://www.srmist.edu.in/faculty/mr-arulalan-v/) at [SRM InStitute of Science and TEchnology, Kattankulathur Campus](https://www.srmist.edu.in/). My research domain is under Video Processing and Analytics also completed Machine Learning Techniques and Data Science & Analytics as a course work with Grade Point Average: 9. As a Researcher, I like to work in a world-class Research Labs or Organisation on challenging and interesting problems with highly competent and visionary researchers. The work should be exciting and motivate me to come up with new ideas that will influence and make a positive impact on the organization.
+I am an ***Assistant Professor*** in [Department of Computing Technologies](https://www.srmist.edu.in/faculty/mr-arulalan-v/) at [SRM Institute of Science and Technology, Kattankulathur Campus](https://www.srmist.edu.in/). My research domain is under Video Processing and Analytics also completed Machine Learning Techniques and Data Science & Analytics as a course work with Grade Point Average: 9. As a Researcher, I like to work in a world-class Research Labs or Organisation on challenging and interesting problems with highly competent and visionary researchers. The work should be exciting and motivate me to come up with new ideas that will influence and make a positive impact on the organization.
 <br>
 <br>
 ![image](https://user-images.githubusercontent.com/36508306/185130931-f9e33f0c-3674-4479-87e9-cc56a3e9e724.png)
@@ -25,7 +25,7 @@ I am an ***Assistant Professor*** in [Department of Computing Technologies](http
 **Assistant Professor** <br>
 *02.2023 -- Present* <br>
 Department of Computing Technologies<br>
-SRM Institute Of Science And Technology, KTR Campus<br>
+SRM Institute Of Science and Technology, KTR Campus<br>
 Chengalpattu.
 
 **Teaching Fellow** <br>
